@@ -41,46 +41,6 @@ pre-computed, verified JSON from a safe analytics layer.
 **Database:** PostgreSQL (production) / SQLite (local dev, zero setup)
 **Deployment:** Vercel (frontend), Render/Railway (backend), Docker Compose (all-in-one local)
 
-## Project Structure
-
-```
-AI-Sales-Analytics/
-├── backend/
-│   ├── app/
-│   │   ├── api/            # FastAPI routers
-│   │   ├── analytics/      # Safe, read-only analytics engine
-│   │   ├── ml/              # Forecasting + anomaly detection
-│   │   ├── ai/               # AI Sales Analyst service
-│   │   ├── services/        # Auth + upload/ingestion
-│   │   ├── models/           # SQLAlchemy models
-│   │   ├── schemas/          # Pydantic schemas
-│   │   ├── database/         # DB session/engine
-│   │   ├── main.py
-│   │   └── seed.py
-│   ├── tests/                # pytest suite (27 tests)
-│   ├── requirements.txt
-│   └── Dockerfile
-├── frontend/
-│   ├── src/
-│   │   ├── pages/            # Landing, Login, Register, Dashboard, ...
-│   │   ├── components/       # AppShell, FilterBar, UI primitives
-│   │   ├── context/          # Auth + Theme providers
-│   │   └── lib/api.ts
-│   └── Dockerfile
-├── data/
-│   ├── sample_sales.csv
-│   └── generate_sample_data.py
-├── database/
-│   ├── schema.sql
-│   └── seed.sql
-├── docs/
-│   ├── architecture.md
-│   ├── api.md
-│   └── deployment.md
-├── docker-compose.yml
-├── .env.example
-└── README.md
-```
 
 ## Installation & Running Locally
 
