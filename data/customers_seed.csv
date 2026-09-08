@@ -1,0 +1,1401 @@
+customer_id,name,email,city,state,region,segment,signup_date
+1,Aditya Mehta,aditya.mehta1@example.com,Jaipur,Rajasthan,West,Inactive,2023-05-22
+2,Neha Kapoor,neha.kapoor2@example.com,Bhopal,Madhya Pradesh,Central,At Risk,2023-03-31
+3,Priya Chatterjee,priya.chatterjee3@example.com,Kochi,Kerala,South,Inactive,2023-10-09
+4,Reyansh Kulkarni,reyansh.kulkarni4@example.com,Visakhapatnam,Andhra Pradesh,South,Potential,2023-02-14
+5,Karan Singh,karan.singh5@example.com,Surat,Gujarat,West,At Risk,2023-02-17
+6,Priya Singh,priya.singh6@example.com,Kanpur,Uttar Pradesh,Central,Loyal,2023-11-23
+7,Meera Desai,meera.desai7@example.com,Gurugram,Haryana,North,At Risk,2023-09-14
+8,Diya Pillai,diya.pillai8@example.com,Vijayawada,Andhra Pradesh,South,Potential,2023-05-13
+9,Pari Mehta,pari.mehta9@example.com,Gurugram,Haryana,North,Loyal,2024-10-20
+10,Karan Pillai,karan.pillai10@example.com,Surat,Gujarat,West,Potential,2024-08-05
+11,Diya Nair,diya.nair11@example.com,Panaji,Goa,West,Loyal,2024-04-22
+12,Sai Pillai,sai.pillai12@example.com,Dehradun,Uttarakhand,North,High Value,2024-07-04
+13,Pari Menon,pari.menon13@example.com,Surat,Gujarat,West,At Risk,2023-12-20
+14,Vihaan Mehta,vihaan.mehta14@example.com,Gurugram,Haryana,North,At Risk,2023-11-26
+15,Pari Joshi,pari.joshi15@example.com,Siliguri,West Bengal,East,At Risk,2023-03-05
+16,Aarav Das,aarav.das16@example.com,Thiruvananthapuram,Kerala,South,Potential,2023-05-31
+17,Rahul Verma,rahul.verma17@example.com,Vijayawada,Andhra Pradesh,South,Loyal,2024-08-21
+18,Riya Kapoor,riya.kapoor18@example.com,Chennai,Tamil Nadu,South,Potential,2024-07-02
+19,Ishaan Reddy,ishaan.reddy19@example.com,Ahmedabad,Gujarat,West,Inactive,2023-08-23
+20,Rohan Menon,rohan.menon20@example.com,New Delhi,Delhi,North,At Risk,2024-05-16
+21,Arjun Menon,arjun.menon21@example.com,Siliguri,West Bengal,East,At Risk,2023-11-09
+22,Navya Singh,navya.singh22@example.com,Bengaluru,Karnataka,South,At Risk,2024-11-02
+23,Ananya Agarwal,ananya.agarwal23@example.com,New Delhi,Delhi,North,Inactive,2023-12-13
+24,Anjali Iyer,anjali.iyer24@example.com,Thiruvananthapuram,Kerala,South,At Risk,2024-05-16
+25,Aadhya Agarwal,aadhya.agarwal25@example.com,Kochi,Kerala,South,Loyal,2023-03-31
+26,Ishaan Kapoor,ishaan.kapoor26@example.com,Amritsar,Punjab,North,Potential,2023-05-04
+27,Riya Rao,riya.rao27@example.com,Nagpur,Maharashtra,West,At Risk,2023-08-05
+28,Navya Verma,navya.verma28@example.com,Patna,Bihar,East,At Risk,2024-06-14
+29,Kiara Mehta,kiara.mehta29@example.com,Ludhiana,Punjab,North,Potential,2023-04-12
+30,Anika Iyer,anika.iyer30@example.com,New Delhi,Delhi,North,Loyal,2024-10-09
+31,Ananya Iyer,ananya.iyer31@example.com,Bhubaneswar,Odisha,East,Potential,2023-01-16
+32,Kiara Verma,kiara.verma32@example.com,Raipur,Chhattisgarh,Central,At Risk,2023-02-27
+33,Arjun Joshi,arjun.joshi33@example.com,Kochi,Kerala,South,Inactive,2024-01-15
+34,Ishaan Bose,ishaan.bose34@example.com,Coimbatore,Tamil Nadu,South,Potential,2023-11-04
+35,Pari Patel,pari.patel35@example.com,Amritsar,Punjab,North,Inactive,2023-07-31
+36,Rohan Nair,rohan.nair36@example.com,Faridabad,Haryana,North,Loyal,2024-04-06
+37,Priya Chatterjee,priya.chatterjee37@example.com,Panaji,Goa,West,Loyal,2024-10-03
+38,Vivaan Kapoor,vivaan.kapoor38@example.com,New Delhi,Delhi,North,Potential,2023-09-17
+39,Reyansh Das,reyansh.das39@example.com,Surat,Gujarat,West,Potential,2024-03-20
+40,Anjali Agarwal,anjali.agarwal40@example.com,Bhubaneswar,Odisha,East,Loyal,2023-05-07
+41,Anjali Das,anjali.das41@example.com,New Delhi,Delhi,North,Potential,2023-04-17
+42,Reyansh Kulkarni,reyansh.kulkarni42@example.com,Panaji,Goa,West,Inactive,2023-03-23
+43,Priya Rao,priya.rao43@example.com,Kochi,Kerala,South,At Risk,2023-09-19
+44,Aarav Agarwal,aarav.agarwal44@example.com,Faridabad,Haryana,North,Loyal,2024-10-25
+45,Pooja Reddy,pooja.reddy45@example.com,New Delhi,Delhi,North,Inactive,2024-06-06
+46,Pooja Iyer,pooja.iyer46@example.com,Siliguri,West Bengal,East,Loyal,2023-08-06
+47,Aadhya Patel,aadhya.patel47@example.com,Surat,Gujarat,West,Potential,2024-10-16
+48,Aarav Mehta,aarav.mehta48@example.com,New Delhi,Delhi,North,Loyal,2024-11-09
+49,Rohan Rao,rohan.rao49@example.com,Siliguri,West Bengal,East,Potential,2023-05-20
+50,Rahul Patel,rahul.patel50@example.com,Nagpur,Maharashtra,West,At Risk,2023-10-31
+51,Diya Patel,diya.patel51@example.com,Indore,Madhya Pradesh,Central,Potential,2023-12-09
+52,Vikram Agarwal,vikram.agarwal52@example.com,Surat,Gujarat,West,Loyal,2023-12-16
+53,Riya Desai,riya.desai53@example.com,Kolkata,West Bengal,East,Loyal,2023-04-09
+54,Sai Agarwal,sai.agarwal54@example.com,Mysuru,Karnataka,South,Potential,2024-05-31
+55,Priya Mehta,priya.mehta55@example.com,Vijayawada,Andhra Pradesh,South,High Value,2023-03-18
+56,Ananya Kapoor,ananya.kapoor56@example.com,Surat,Gujarat,West,Loyal,2024-06-19
+57,Navya Patel,navya.patel57@example.com,Udaipur,Rajasthan,West,Potential,2023-09-19
+58,Krishna Menon,krishna.menon58@example.com,Mysuru,Karnataka,South,Inactive,2024-01-07
+59,Sanjay Bose,sanjay.bose59@example.com,New Delhi,Delhi,North,At Risk,2024-11-02
+60,Ananya Patel,ananya.patel60@example.com,New Delhi,Delhi,North,Potential,2023-05-15
+61,Arjun Joshi,arjun.joshi61@example.com,Vijayawada,Andhra Pradesh,South,Inactive,2023-04-26
+62,Pari Sharma,pari.sharma62@example.com,Kochi,Kerala,South,Loyal,2024-05-11
+63,Saanvi Joshi,saanvi.joshi63@example.com,New Delhi,Delhi,North,High Value,2023-12-28
+64,Ishaan Desai,ishaan.desai64@example.com,Thiruvananthapuram,Kerala,South,Potential,2024-09-04
+65,Pooja Nair,pooja.nair65@example.com,Jaipur,Rajasthan,West,Loyal,2023-06-09
+66,Saanvi Sharma,saanvi.sharma66@example.com,Siliguri,West Bengal,East,High Value,2023-09-19
+67,Vihaan Patel,vihaan.patel67@example.com,Ranchi,Jharkhand,East,Inactive,2023-02-06
+68,Rahul Agarwal,rahul.agarwal68@example.com,Lucknow,Uttar Pradesh,Central,Inactive,2023-06-17
+69,Navya Chatterjee,navya.chatterjee69@example.com,Panaji,Goa,West,At Risk,2024-03-07
+70,Ishaan Kapoor,ishaan.kapoor70@example.com,Dehradun,Uttarakhand,North,Potential,2024-11-07
+71,Diya Nair,diya.nair71@example.com,Vijayawada,Andhra Pradesh,South,At Risk,2023-07-06
+72,Navya Nair,navya.nair72@example.com,Ludhiana,Punjab,North,Potential,2023-08-25
+73,Ishaan Reddy,ishaan.reddy73@example.com,Coimbatore,Tamil Nadu,South,Potential,2024-04-25
+74,Sanjay Menon,sanjay.menon74@example.com,Vijayawada,Andhra Pradesh,South,Inactive,2024-06-23
+75,Kiara Mehta,kiara.mehta75@example.com,Bhubaneswar,Odisha,East,Inactive,2023-05-22
+76,Aditya Iyer,aditya.iyer76@example.com,Ranchi,Jharkhand,East,At Risk,2023-05-04
+77,Rohan Agarwal,rohan.agarwal77@example.com,Faridabad,Haryana,North,Inactive,2023-04-03
+78,Aditya Joshi,aditya.joshi78@example.com,Patna,Bihar,East,At Risk,2023-03-01
+79,Sai Bose,sai.bose79@example.com,Lucknow,Uttar Pradesh,Central,Inactive,2023-10-12
+80,Priya Verma,priya.verma80@example.com,Udaipur,Rajasthan,West,Inactive,2023-06-27
+81,Sai Reddy,sai.reddy81@example.com,Kolkata,West Bengal,East,At Risk,2023-04-01
+82,Rohan Kapoor,rohan.kapoor82@example.com,Patna,Bihar,East,Potential,2024-05-24
+83,Ayaan Joshi,ayaan.joshi83@example.com,Panaji,Goa,West,Potential,2023-04-08
+84,Karan Verma,karan.verma84@example.com,Dehradun,Uttarakhand,North,Loyal,2023-12-08
+85,Priya Desai,priya.desai85@example.com,Thiruvananthapuram,Kerala,South,At Risk,2023-08-22
+86,Priya Singh,priya.singh86@example.com,Kanpur,Uttar Pradesh,Central,Loyal,2024-01-08
+87,Arjun Joshi,arjun.joshi87@example.com,Amritsar,Punjab,North,Inactive,2023-11-03
+88,Vikram Agarwal,vikram.agarwal88@example.com,Mysuru,Karnataka,South,Potential,2023-09-10
+89,Diya Sharma,diya.sharma89@example.com,Visakhapatnam,Andhra Pradesh,South,Inactive,2024-05-17
+90,Vihaan Kulkarni,vihaan.kulkarni90@example.com,Raipur,Chhattisgarh,Central,Inactive,2024-03-21
+91,Pari Sharma,pari.sharma91@example.com,Amritsar,Punjab,North,At Risk,2023-03-08
+92,Krishna Gupta,krishna.gupta92@example.com,Ahmedabad,Gujarat,West,Potential,2023-11-06
+93,Pari Patel,pari.patel93@example.com,Thiruvananthapuram,Kerala,South,At Risk,2023-10-01
+94,Priya Bose,priya.bose94@example.com,Panaji,Goa,West,Loyal,2023-01-31
+95,Riya Chatterjee,riya.chatterjee95@example.com,Indore,Madhya Pradesh,Central,At Risk,2023-03-05
+96,Aadhya Patel,aadhya.patel96@example.com,Lucknow,Uttar Pradesh,Central,Loyal,2024-08-21
+97,Krishna Mehta,krishna.mehta97@example.com,Dehradun,Uttarakhand,North,Inactive,2024-09-28
+98,Rahul Chatterjee,rahul.chatterjee98@example.com,New Delhi,Delhi,North,High Value,2024-11-17
+99,Ayaan Verma,ayaan.verma99@example.com,Dehradun,Uttarakhand,North,Inactive,2024-04-13
+100,Priya Bose,priya.bose100@example.com,Lucknow,Uttar Pradesh,Central,At Risk,2024-08-09
+101,Rohan Kapoor,rohan.kapoor101@example.com,Ludhiana,Punjab,North,Loyal,2024-01-13
+102,Aadhya Reddy,aadhya.reddy102@example.com,Patna,Bihar,East,Inactive,2024-07-23
+103,Krishna Kapoor,krishna.kapoor103@example.com,Gurugram,Haryana,North,At Risk,2024-11-17
+104,Vivaan Sharma,vivaan.sharma104@example.com,Patna,Bihar,East,At Risk,2023-01-30
+105,Karan Singh,karan.singh105@example.com,Raipur,Chhattisgarh,Central,Loyal,2023-03-06
+106,Pari Pillai,pari.pillai106@example.com,Amritsar,Punjab,North,Potential,2023-06-28
+107,Ayaan Agarwal,ayaan.agarwal107@example.com,Patna,Bihar,East,Loyal,2024-01-14
+108,Ayaan Chatterjee,ayaan.chatterjee108@example.com,Bhubaneswar,Odisha,East,At Risk,2023-11-06
+109,Rohan Rao,rohan.rao109@example.com,Dehradun,Uttarakhand,North,Potential,2024-10-01
+110,Arjun Verma,arjun.verma110@example.com,Amritsar,Punjab,North,Loyal,2023-08-02
+111,Anjali Rao,anjali.rao111@example.com,Vijayawada,Andhra Pradesh,South,At Risk,2023-04-18
+112,Anika Agarwal,anika.agarwal112@example.com,Amritsar,Punjab,North,Potential,2023-01-26
+113,Aditya Joshi,aditya.joshi113@example.com,Chennai,Tamil Nadu,South,Loyal,2023-09-03
+114,Riya Chatterjee,riya.chatterjee114@example.com,Udaipur,Rajasthan,West,At Risk,2023-08-10
+115,Myra Chatterjee,myra.chatterjee115@example.com,Surat,Gujarat,West,Potential,2024-01-04
+116,Pari Kulkarni,pari.kulkarni116@example.com,Bhubaneswar,Odisha,East,At Risk,2023-03-31
+117,Krishna Pillai,krishna.pillai117@example.com,Ranchi,Jharkhand,East,Potential,2023-06-22
+118,Kiara Verma,kiara.verma118@example.com,Ahmedabad,Gujarat,West,Loyal,2023-02-20
+119,Vivaan Joshi,vivaan.joshi119@example.com,Panaji,Goa,West,Loyal,2023-08-22
+120,Meera Sharma,meera.sharma120@example.com,Gurugram,Haryana,North,At Risk,2023-11-02
+121,Karan Reddy,karan.reddy121@example.com,Panaji,Goa,West,Potential,2023-06-17
+122,Ananya Verma,ananya.verma122@example.com,Faridabad,Haryana,North,Inactive,2024-11-27
+123,Arjun Desai,arjun.desai123@example.com,Ahmedabad,Gujarat,West,At Risk,2024-06-11
+124,Rohan Nair,rohan.nair124@example.com,Bhubaneswar,Odisha,East,High Value,2024-06-13
+125,Arjun Agarwal,arjun.agarwal125@example.com,Faridabad,Haryana,North,Inactive,2024-11-23
+126,Riya Patel,riya.patel126@example.com,Siliguri,West Bengal,East,Inactive,2023-12-19
+127,Aditya Sharma,aditya.sharma127@example.com,Chennai,Tamil Nadu,South,At Risk,2023-10-31
+128,Ayaan Agarwal,ayaan.agarwal128@example.com,Visakhapatnam,Andhra Pradesh,South,Loyal,2024-10-20
+129,Sai Menon,sai.menon129@example.com,New Delhi,Delhi,North,Loyal,2024-11-27
+130,Aditya Bose,aditya.bose130@example.com,Kochi,Kerala,South,Loyal,2024-08-13
+131,Riya Pillai,riya.pillai131@example.com,Patna,Bihar,East,At Risk,2024-06-18
+132,Pooja Gupta,pooja.gupta132@example.com,Gurugram,Haryana,North,Potential,2024-10-13
+133,Priya Singh,priya.singh133@example.com,Vijayawada,Andhra Pradesh,South,Inactive,2023-12-20
+134,Diya Gupta,diya.gupta134@example.com,Bhopal,Madhya Pradesh,Central,Inactive,2024-02-13
+135,Aarav Singh,aarav.singh135@example.com,Bhubaneswar,Odisha,East,Loyal,2024-11-29
+136,Aarav Gupta,aarav.gupta136@example.com,Ranchi,Jharkhand,East,Loyal,2023-08-10
+137,Rohan Rao,rohan.rao137@example.com,New Delhi,Delhi,North,Inactive,2023-10-22
+138,Saanvi Iyer,saanvi.iyer138@example.com,Bhubaneswar,Odisha,East,High Value,2023-04-30
+139,Rahul Chatterjee,rahul.chatterjee139@example.com,Patna,Bihar,East,Inactive,2024-09-07
+140,Meera Iyer,meera.iyer140@example.com,Surat,Gujarat,West,At Risk,2024-11-05
+141,Myra Desai,myra.desai141@example.com,Surat,Gujarat,West,Loyal,2024-07-20
+142,Saanvi Das,saanvi.das142@example.com,Bhubaneswar,Odisha,East,At Risk,2023-03-17
+143,Neha Chatterjee,neha.chatterjee143@example.com,Vijayawada,Andhra Pradesh,South,At Risk,2023-08-31
+144,Vikram Menon,vikram.menon144@example.com,Ludhiana,Punjab,North,At Risk,2024-09-04
+145,Anjali Verma,anjali.verma145@example.com,Visakhapatnam,Andhra Pradesh,South,Potential,2024-07-09
+146,Pari Iyer,pari.iyer146@example.com,New Delhi,Delhi,North,Inactive,2024-10-09
+147,Vikram Sharma,vikram.sharma147@example.com,Mumbai,Maharashtra,West,Potential,2023-09-16
+148,Karan Sharma,karan.sharma148@example.com,Nagpur,Maharashtra,West,At Risk,2024-08-28
+149,Meera Nair,meera.nair149@example.com,Surat,Gujarat,West,High Value,2023-03-13
+150,Aarav Iyer,aarav.iyer150@example.com,Jaipur,Rajasthan,West,Potential,2024-04-19
+151,Saanvi Chatterjee,saanvi.chatterjee151@example.com,Dehradun,Uttarakhand,North,Inactive,2024-04-15
+152,Priya Kulkarni,priya.kulkarni152@example.com,Amritsar,Punjab,North,Potential,2024-09-23
+153,Vihaan Iyer,vihaan.iyer153@example.com,Bhubaneswar,Odisha,East,Potential,2024-01-20
+154,Rohan Gupta,rohan.gupta154@example.com,Dehradun,Uttarakhand,North,Loyal,2023-11-11
+155,Anjali Pillai,anjali.pillai155@example.com,Udaipur,Rajasthan,West,Loyal,2023-10-13
+156,Anika Kulkarni,anika.kulkarni156@example.com,New Delhi,Delhi,North,Inactive,2024-05-05
+157,Reyansh Menon,reyansh.menon157@example.com,Kolkata,West Bengal,East,Inactive,2023-08-29
+158,Aditya Joshi,aditya.joshi158@example.com,Bengaluru,Karnataka,South,Loyal,2023-01-13
+159,Aadhya Rao,aadhya.rao159@example.com,Vijayawada,Andhra Pradesh,South,Potential,2024-09-13
+160,Anjali Iyer,anjali.iyer160@example.com,Panaji,Goa,West,Potential,2023-08-31
+161,Pooja Agarwal,pooja.agarwal161@example.com,Dehradun,Uttarakhand,North,Potential,2023-08-03
+162,Anika Sharma,anika.sharma162@example.com,Jaipur,Rajasthan,West,At Risk,2023-07-29
+163,Ananya Kulkarni,ananya.kulkarni163@example.com,Chennai,Tamil Nadu,South,Loyal,2023-01-02
+164,Anika Pillai,anika.pillai164@example.com,Bhubaneswar,Odisha,East,At Risk,2024-03-20
+165,Anjali Iyer,anjali.iyer165@example.com,Coimbatore,Tamil Nadu,South,At Risk,2024-07-24
+166,Sai Joshi,sai.joshi166@example.com,Bhopal,Madhya Pradesh,Central,Loyal,2023-08-12
+167,Vikram Agarwal,vikram.agarwal167@example.com,Kolkata,West Bengal,East,Potential,2023-10-31
+168,Vikram Iyer,vikram.iyer168@example.com,Dehradun,Uttarakhand,North,Loyal,2023-01-29
+169,Ayaan Kapoor,ayaan.kapoor169@example.com,Kochi,Kerala,South,Potential,2024-07-07
+170,Vihaan Pillai,vihaan.pillai170@example.com,Amritsar,Punjab,North,Potential,2023-02-12
+171,Kiara Singh,kiara.singh171@example.com,Ahmedabad,Gujarat,West,Potential,2023-06-11
+172,Vihaan Reddy,vihaan.reddy172@example.com,Ludhiana,Punjab,North,Inactive,2023-01-01
+173,Kiara Rao,kiara.rao173@example.com,Bhubaneswar,Odisha,East,Potential,2023-10-29
+174,Reyansh Gupta,reyansh.gupta174@example.com,Surat,Gujarat,West,Loyal,2024-02-23
+175,Rohan Desai,rohan.desai175@example.com,Mysuru,Karnataka,South,Loyal,2023-08-20
+176,Vivaan Kulkarni,vivaan.kulkarni176@example.com,Raipur,Chhattisgarh,Central,Potential,2024-05-13
+177,Aarav Agarwal,aarav.agarwal177@example.com,Gurugram,Haryana,North,Loyal,2023-03-04
+178,Arjun Patel,arjun.patel178@example.com,New Delhi,Delhi,North,High Value,2024-05-09
+179,Anika Mehta,anika.mehta179@example.com,Kochi,Kerala,South,Potential,2024-08-17
+180,Aadhya Reddy,aadhya.reddy180@example.com,Amritsar,Punjab,North,At Risk,2024-09-19
+181,Ayaan Agarwal,ayaan.agarwal181@example.com,Panaji,Goa,West,Loyal,2024-01-25
+182,Aditya Singh,aditya.singh182@example.com,Bhubaneswar,Odisha,East,Inactive,2024-05-28
+183,Priya Iyer,priya.iyer183@example.com,Vijayawada,Andhra Pradesh,South,At Risk,2023-06-01
+184,Sanjay Sharma,sanjay.sharma184@example.com,Kochi,Kerala,South,High Value,2024-05-30
+185,Arjun Bose,arjun.bose185@example.com,Amritsar,Punjab,North,At Risk,2024-05-10
+186,Ishaan Patel,ishaan.patel186@example.com,Panaji,Goa,West,Inactive,2024-02-20
+187,Arjun Verma,arjun.verma187@example.com,Dehradun,Uttarakhand,North,At Risk,2023-05-02
+188,Meera Sharma,meera.sharma188@example.com,Siliguri,West Bengal,East,High Value,2024-01-23
+189,Anika Kulkarni,anika.kulkarni189@example.com,Ranchi,Jharkhand,East,Loyal,2023-03-05
+190,Sai Iyer,sai.iyer190@example.com,Ranchi,Jharkhand,East,At Risk,2024-05-20
+191,Krishna Das,krishna.das191@example.com,Kolkata,West Bengal,East,At Risk,2024-08-08
+192,Anika Bose,anika.bose192@example.com,New Delhi,Delhi,North,Loyal,2024-09-03
+193,Myra Singh,myra.singh193@example.com,Thiruvananthapuram,Kerala,South,Potential,2024-06-10
+194,Anika Desai,anika.desai194@example.com,Udaipur,Rajasthan,West,At Risk,2024-11-19
+195,Vivaan Pillai,vivaan.pillai195@example.com,Vijayawada,Andhra Pradesh,South,High Value,2023-09-08
+196,Aditya Mehta,aditya.mehta196@example.com,Thiruvananthapuram,Kerala,South,Inactive,2023-10-04
+197,Ayaan Reddy,ayaan.reddy197@example.com,Ahmedabad,Gujarat,West,Inactive,2024-04-22
+198,Meera Gupta,meera.gupta198@example.com,Nagpur,Maharashtra,West,Loyal,2023-11-25
+199,Saanvi Kapoor,saanvi.kapoor199@example.com,Udaipur,Rajasthan,West,Potential,2023-03-04
+200,Priya Rao,priya.rao200@example.com,Udaipur,Rajasthan,West,Potential,2023-03-15
+201,Myra Verma,myra.verma201@example.com,Kanpur,Uttar Pradesh,Central,At Risk,2023-01-03
+202,Aarav Das,aarav.das202@example.com,Pune,Maharashtra,West,Inactive,2023-09-22
+203,Pooja Chatterjee,pooja.chatterjee203@example.com,Panaji,Goa,West,Potential,2023-08-12
+204,Anika Sharma,anika.sharma204@example.com,Patna,Bihar,East,Potential,2024-02-26
+205,Kiara Gupta,kiara.gupta205@example.com,Raipur,Chhattisgarh,Central,Loyal,2023-09-22
+206,Ishaan Mehta,ishaan.mehta206@example.com,Visakhapatnam,Andhra Pradesh,South,Loyal,2023-02-02
+207,Sai Verma,sai.verma207@example.com,Raipur,Chhattisgarh,Central,Loyal,2023-11-28
+208,Krishna Das,krishna.das208@example.com,Noida,Uttar Pradesh,Central,Loyal,2023-05-11
+209,Vihaan Sharma,vihaan.sharma209@example.com,Kolkata,West Bengal,East,Loyal,2023-01-07
+210,Rohan Menon,rohan.menon210@example.com,Raipur,Chhattisgarh,Central,At Risk,2024-09-10
+211,Krishna Gupta,krishna.gupta211@example.com,Bengaluru,Karnataka,South,At Risk,2024-09-05
+212,Ananya Das,ananya.das212@example.com,Bhopal,Madhya Pradesh,Central,Inactive,2024-02-17
+213,Reyansh Joshi,reyansh.joshi213@example.com,New Delhi,Delhi,North,Potential,2023-10-25
+214,Navya Kapoor,navya.kapoor214@example.com,Nagpur,Maharashtra,West,Potential,2023-04-26
+215,Diya Joshi,diya.joshi215@example.com,Chennai,Tamil Nadu,South,Inactive,2024-01-02
+216,Diya Patel,diya.patel216@example.com,Thiruvananthapuram,Kerala,South,Potential,2024-06-16
+217,Saanvi Patel,saanvi.patel217@example.com,Mumbai,Maharashtra,West,Inactive,2023-06-13
+218,Sai Bose,sai.bose218@example.com,Dehradun,Uttarakhand,North,Loyal,2024-03-08
+219,Aadhya Kulkarni,aadhya.kulkarni219@example.com,Bengaluru,Karnataka,South,Loyal,2024-05-12
+220,Pari Kapoor,pari.kapoor220@example.com,Udaipur,Rajasthan,West,Potential,2024-05-18
+221,Arjun Verma,arjun.verma221@example.com,Bengaluru,Karnataka,South,Inactive,2024-09-13
+222,Aadhya Kapoor,aadhya.kapoor222@example.com,Surat,Gujarat,West,Potential,2023-10-03
+223,Vihaan Reddy,vihaan.reddy223@example.com,Kochi,Kerala,South,Loyal,2024-10-28
+224,Diya Joshi,diya.joshi224@example.com,Vijayawada,Andhra Pradesh,South,Loyal,2024-11-02
+225,Aarav Reddy,aarav.reddy225@example.com,Mysuru,Karnataka,South,Loyal,2024-10-03
+226,Anjali Rao,anjali.rao226@example.com,Vijayawada,Andhra Pradesh,South,Potential,2024-01-06
+227,Anjali Bose,anjali.bose227@example.com,Faridabad,Haryana,North,Inactive,2024-06-03
+228,Rohan Gupta,rohan.gupta228@example.com,Visakhapatnam,Andhra Pradesh,South,Inactive,2024-01-27
+229,Priya Verma,priya.verma229@example.com,Bengaluru,Karnataka,South,At Risk,2024-06-09
+230,Reyansh Kapoor,reyansh.kapoor230@example.com,Panaji,Goa,West,Inactive,2023-11-03
+231,Aarav Iyer,aarav.iyer231@example.com,Ranchi,Jharkhand,East,Inactive,2023-07-16
+232,Aadhya Reddy,aadhya.reddy232@example.com,Ludhiana,Punjab,North,Loyal,2024-07-05
+233,Meera Rao,meera.rao233@example.com,Kochi,Kerala,South,Potential,2024-05-23
+234,Aditya Menon,aditya.menon234@example.com,Coimbatore,Tamil Nadu,South,Potential,2024-03-05
+235,Sai Das,sai.das235@example.com,Vijayawada,Andhra Pradesh,South,At Risk,2024-08-15
+236,Aadhya Desai,aadhya.desai236@example.com,Dehradun,Uttarakhand,North,Inactive,2024-06-08
+237,Myra Reddy,myra.reddy237@example.com,Raipur,Chhattisgarh,Central,At Risk,2023-07-31
+238,Diya Rao,diya.rao238@example.com,Noida,Uttar Pradesh,Central,At Risk,2024-09-18
+239,Myra Gupta,myra.gupta239@example.com,Udaipur,Rajasthan,West,Inactive,2023-10-21
+240,Ananya Menon,ananya.menon240@example.com,Bhubaneswar,Odisha,East,Potential,2023-11-05
+241,Aditya Patel,aditya.patel241@example.com,Dehradun,Uttarakhand,North,At Risk,2024-04-03
+242,Rahul Reddy,rahul.reddy242@example.com,Ahmedabad,Gujarat,West,Potential,2023-04-24
+243,Meera Mehta,meera.mehta243@example.com,Panaji,Goa,West,Loyal,2023-05-01
+244,Arjun Iyer,arjun.iyer244@example.com,Mysuru,Karnataka,South,Loyal,2024-04-17
+245,Pari Desai,pari.desai245@example.com,Lucknow,Uttar Pradesh,Central,Potential,2024-06-22
+246,Ishaan Chatterjee,ishaan.chatterjee246@example.com,Ranchi,Jharkhand,East,Loyal,2023-02-14
+247,Diya Kapoor,diya.kapoor247@example.com,Bhopal,Madhya Pradesh,Central,At Risk,2023-01-17
+248,Ananya Rao,ananya.rao248@example.com,Thiruvananthapuram,Kerala,South,At Risk,2023-05-04
+249,Sanjay Kapoor,sanjay.kapoor249@example.com,Panaji,Goa,West,Potential,2024-05-08
+250,Rahul Nair,rahul.nair250@example.com,Bhubaneswar,Odisha,East,Potential,2023-10-09
+251,Sanjay Sharma,sanjay.sharma251@example.com,Lucknow,Uttar Pradesh,Central,Inactive,2024-06-05
+252,Navya Menon,navya.menon252@example.com,Nagpur,Maharashtra,West,Potential,2024-05-04
+253,Krishna Menon,krishna.menon253@example.com,Siliguri,West Bengal,East,Loyal,2024-02-15
+254,Krishna Kulkarni,krishna.kulkarni254@example.com,Chennai,Tamil Nadu,South,Inactive,2024-02-04
+255,Aadhya Pillai,aadhya.pillai255@example.com,New Delhi,Delhi,North,Potential,2023-04-05
+256,Navya Patel,navya.patel256@example.com,Dehradun,Uttarakhand,North,At Risk,2023-03-22
+257,Vikram Reddy,vikram.reddy257@example.com,Raipur,Chhattisgarh,Central,Loyal,2023-01-19
+258,Krishna Das,krishna.das258@example.com,Bhubaneswar,Odisha,East,Inactive,2024-03-18
+259,Ayaan Iyer,ayaan.iyer259@example.com,New Delhi,Delhi,North,At Risk,2023-11-30
+260,Karan Bose,karan.bose260@example.com,Panaji,Goa,West,Loyal,2024-02-07
+261,Pari Iyer,pari.iyer261@example.com,Mysuru,Karnataka,South,Potential,2024-04-25
+262,Aarav Kapoor,aarav.kapoor262@example.com,Siliguri,West Bengal,East,Inactive,2023-03-16
+263,Anjali Iyer,anjali.iyer263@example.com,Mumbai,Maharashtra,West,Potential,2023-11-19
+264,Neha Singh,neha.singh264@example.com,Bengaluru,Karnataka,South,At Risk,2023-08-15
+265,Vikram Rao,vikram.rao265@example.com,Panaji,Goa,West,Inactive,2023-10-04
+266,Rahul Nair,rahul.nair266@example.com,Surat,Gujarat,West,Potential,2024-09-17
+267,Ishaan Reddy,ishaan.reddy267@example.com,Faridabad,Haryana,North,Loyal,2023-08-04
+268,Vivaan Verma,vivaan.verma268@example.com,Faridabad,Haryana,North,High Value,2023-11-02
+269,Neha Bose,neha.bose269@example.com,Mumbai,Maharashtra,West,At Risk,2023-08-28
+270,Krishna Bose,krishna.bose270@example.com,New Delhi,Delhi,North,Inactive,2024-01-23
+271,Aditya Kapoor,aditya.kapoor271@example.com,Jaipur,Rajasthan,West,Potential,2024-05-31
+272,Pari Pillai,pari.pillai272@example.com,Coimbatore,Tamil Nadu,South,Potential,2024-05-15
+273,Reyansh Chatterjee,reyansh.chatterjee273@example.com,Chennai,Tamil Nadu,South,Loyal,2024-06-10
+274,Aditya Reddy,aditya.reddy274@example.com,Dehradun,Uttarakhand,North,Loyal,2023-05-03
+275,Sanjay Patel,sanjay.patel275@example.com,Pune,Maharashtra,West,Inactive,2024-11-22
+276,Diya Das,diya.das276@example.com,Thiruvananthapuram,Kerala,South,Inactive,2024-11-13
+277,Kiara Mehta,kiara.mehta277@example.com,Ahmedabad,Gujarat,West,Loyal,2024-10-24
+278,Pari Singh,pari.singh278@example.com,Ahmedabad,Gujarat,West,Potential,2024-08-02
+279,Meera Chatterjee,meera.chatterjee279@example.com,Ahmedabad,Gujarat,West,High Value,2023-09-18
+280,Saanvi Patel,saanvi.patel280@example.com,Chennai,Tamil Nadu,South,At Risk,2024-08-01
+281,Vihaan Kapoor,vihaan.kapoor281@example.com,Kolkata,West Bengal,East,Loyal,2023-04-24
+282,Sanjay Verma,sanjay.verma282@example.com,Bhubaneswar,Odisha,East,At Risk,2023-09-11
+283,Priya Chatterjee,priya.chatterjee283@example.com,New Delhi,Delhi,North,Inactive,2024-06-28
+284,Kiara Bose,kiara.bose284@example.com,Indore,Madhya Pradesh,Central,Potential,2024-10-16
+285,Aadhya Reddy,aadhya.reddy285@example.com,Ludhiana,Punjab,North,Potential,2023-07-30
+286,Aditya Patel,aditya.patel286@example.com,Faridabad,Haryana,North,Loyal,2023-10-23
+287,Arjun Reddy,arjun.reddy287@example.com,New Delhi,Delhi,North,Inactive,2023-08-13
+288,Ananya Iyer,ananya.iyer288@example.com,Bengaluru,Karnataka,South,Potential,2024-10-12
+289,Pooja Mehta,pooja.mehta289@example.com,Faridabad,Haryana,North,Inactive,2023-03-11
+290,Vihaan Rao,vihaan.rao290@example.com,New Delhi,Delhi,North,At Risk,2023-03-27
+291,Neha Mehta,neha.mehta291@example.com,Panaji,Goa,West,Inactive,2024-01-04
+292,Vivaan Verma,vivaan.verma292@example.com,Raipur,Chhattisgarh,Central,Potential,2023-08-15
+293,Meera Reddy,meera.reddy293@example.com,Bhopal,Madhya Pradesh,Central,Inactive,2024-07-14
+294,Kiara Das,kiara.das294@example.com,Vijayawada,Andhra Pradesh,South,Inactive,2023-09-24
+295,Riya Gupta,riya.gupta295@example.com,Vijayawada,Andhra Pradesh,South,Loyal,2023-06-01
+296,Aarav Joshi,aarav.joshi296@example.com,New Delhi,Delhi,North,Inactive,2024-02-09
+297,Saanvi Singh,saanvi.singh297@example.com,Chennai,Tamil Nadu,South,At Risk,2024-10-10
+298,Krishna Menon,krishna.menon298@example.com,Noida,Uttar Pradesh,Central,Potential,2024-11-09
+299,Riya Singh,riya.singh299@example.com,Kochi,Kerala,South,Potential,2023-08-13
+300,Ishaan Reddy,ishaan.reddy300@example.com,Bengaluru,Karnataka,South,Loyal,2023-12-17
+301,Reyansh Pillai,reyansh.pillai301@example.com,Thiruvananthapuram,Kerala,South,Potential,2024-06-12
+302,Sai Joshi,sai.joshi302@example.com,Thiruvananthapuram,Kerala,South,Inactive,2023-03-15
+303,Vikram Patel,vikram.patel303@example.com,Faridabad,Haryana,North,Potential,2024-10-08
+304,Aarav Agarwal,aarav.agarwal304@example.com,Ranchi,Jharkhand,East,High Value,2024-04-21
+305,Arjun Kulkarni,arjun.kulkarni305@example.com,Kolkata,West Bengal,East,At Risk,2023-06-17
+306,Aarav Agarwal,aarav.agarwal306@example.com,Chennai,Tamil Nadu,South,At Risk,2023-08-20
+307,Diya Verma,diya.verma307@example.com,Panaji,Goa,West,Potential,2023-07-09
+308,Reyansh Kapoor,reyansh.kapoor308@example.com,Amritsar,Punjab,North,Potential,2023-06-18
+309,Sanjay Agarwal,sanjay.agarwal309@example.com,Kanpur,Uttar Pradesh,Central,Loyal,2024-02-20
+310,Diya Bose,diya.bose310@example.com,Jaipur,Rajasthan,West,Loyal,2023-12-20
+311,Karan Chatterjee,karan.chatterjee311@example.com,Bhubaneswar,Odisha,East,Inactive,2024-09-29
+312,Saanvi Kulkarni,saanvi.kulkarni312@example.com,Chennai,Tamil Nadu,South,Loyal,2024-07-10
+313,Karan Kulkarni,karan.kulkarni313@example.com,Mumbai,Maharashtra,West,Potential,2023-02-16
+314,Aadhya Joshi,aadhya.joshi314@example.com,Siliguri,West Bengal,East,At Risk,2023-04-25
+315,Arjun Sharma,arjun.sharma315@example.com,Pune,Maharashtra,West,At Risk,2024-02-11
+316,Aadhya Patel,aadhya.patel316@example.com,Bhubaneswar,Odisha,East,Loyal,2024-02-06
+317,Aditya Reddy,aditya.reddy317@example.com,Bengaluru,Karnataka,South,Inactive,2023-10-11
+318,Anika Mehta,anika.mehta318@example.com,Surat,Gujarat,West,Loyal,2024-11-24
+319,Arjun Rao,arjun.rao319@example.com,Ranchi,Jharkhand,East,Potential,2023-09-13
+320,Anjali Mehta,anjali.mehta320@example.com,Kolkata,West Bengal,East,Inactive,2023-01-29
+321,Diya Sharma,diya.sharma321@example.com,Jaipur,Rajasthan,West,Inactive,2023-08-06
+322,Krishna Verma,krishna.verma322@example.com,Panaji,Goa,West,Loyal,2023-01-04
+323,Aditya Agarwal,aditya.agarwal323@example.com,Dehradun,Uttarakhand,North,Potential,2024-09-01
+324,Aadhya Reddy,aadhya.reddy324@example.com,Thiruvananthapuram,Kerala,South,High Value,2024-11-09
+325,Sai Das,sai.das325@example.com,Visakhapatnam,Andhra Pradesh,South,Loyal,2023-05-20
+326,Karan Patel,karan.patel326@example.com,Mumbai,Maharashtra,West,Inactive,2024-11-14
+327,Meera Pillai,meera.pillai327@example.com,Surat,Gujarat,West,Loyal,2023-07-30
+328,Reyansh Das,reyansh.das328@example.com,Patna,Bihar,East,Inactive,2023-11-03
+329,Aadhya Iyer,aadhya.iyer329@example.com,Kochi,Kerala,South,Potential,2023-09-11
+330,Anika Pillai,anika.pillai330@example.com,Bengaluru,Karnataka,South,High Value,2024-05-22
+331,Aditya Sharma,aditya.sharma331@example.com,Raipur,Chhattisgarh,Central,At Risk,2023-08-09
+332,Rahul Nair,rahul.nair332@example.com,New Delhi,Delhi,North,Inactive,2023-09-26
+333,Vivaan Nair,vivaan.nair333@example.com,Raipur,Chhattisgarh,Central,Inactive,2024-01-30
+334,Arjun Reddy,arjun.reddy334@example.com,New Delhi,Delhi,North,High Value,2023-04-15
+335,Riya Chatterjee,riya.chatterjee335@example.com,Raipur,Chhattisgarh,Central,Potential,2024-07-11
+336,Navya Chatterjee,navya.chatterjee336@example.com,Nagpur,Maharashtra,West,Inactive,2024-10-26
+337,Saanvi Rao,saanvi.rao337@example.com,Bengaluru,Karnataka,South,Loyal,2024-03-10
+338,Priya Rao,priya.rao338@example.com,Visakhapatnam,Andhra Pradesh,South,Potential,2023-05-08
+339,Arjun Rao,arjun.rao339@example.com,Mysuru,Karnataka,South,At Risk,2024-07-19
+340,Sai Pillai,sai.pillai340@example.com,Nagpur,Maharashtra,West,Inactive,2023-05-12
+341,Aarav Kapoor,aarav.kapoor341@example.com,Gurugram,Haryana,North,Potential,2024-10-17
+342,Myra Menon,myra.menon342@example.com,Raipur,Chhattisgarh,Central,Potential,2024-10-07
+343,Anika Desai,anika.desai343@example.com,Amritsar,Punjab,North,Loyal,2024-03-22
+344,Kiara Kulkarni,kiara.kulkarni344@example.com,Faridabad,Haryana,North,Potential,2023-07-17
+345,Rahul Desai,rahul.desai345@example.com,Amritsar,Punjab,North,At Risk,2024-07-01
+346,Priya Chatterjee,priya.chatterjee346@example.com,Coimbatore,Tamil Nadu,South,Inactive,2023-07-31
+347,Rohan Desai,rohan.desai347@example.com,Surat,Gujarat,West,Inactive,2023-09-17
+348,Vivaan Desai,vivaan.desai348@example.com,Thiruvananthapuram,Kerala,South,Potential,2023-12-09
+349,Neha Singh,neha.singh349@example.com,Amritsar,Punjab,North,Loyal,2023-05-20
+350,Karan Iyer,karan.iyer350@example.com,Siliguri,West Bengal,East,Inactive,2024-01-30
+351,Arjun Singh,arjun.singh351@example.com,Bhopal,Madhya Pradesh,Central,Loyal,2023-07-23
+352,Sai Desai,sai.desai352@example.com,Siliguri,West Bengal,East,At Risk,2024-08-08
+353,Kiara Singh,kiara.singh353@example.com,Mysuru,Karnataka,South,Loyal,2023-07-11
+354,Rahul Desai,rahul.desai354@example.com,Chennai,Tamil Nadu,South,Potential,2023-04-15
+355,Priya Patel,priya.patel355@example.com,Bengaluru,Karnataka,South,At Risk,2024-07-24
+356,Ananya Singh,ananya.singh356@example.com,Coimbatore,Tamil Nadu,South,Loyal,2023-05-08
+357,Diya Agarwal,diya.agarwal357@example.com,Bengaluru,Karnataka,South,Loyal,2024-06-10
+358,Aarav Rao,aarav.rao358@example.com,Bengaluru,Karnataka,South,Loyal,2024-05-05
+359,Ayaan Verma,ayaan.verma359@example.com,Coimbatore,Tamil Nadu,South,At Risk,2024-10-13
+360,Navya Das,navya.das360@example.com,Thiruvananthapuram,Kerala,South,Inactive,2023-11-27
+361,Myra Pillai,myra.pillai361@example.com,Raipur,Chhattisgarh,Central,Inactive,2023-09-09
+362,Aarav Menon,aarav.menon362@example.com,Amritsar,Punjab,North,Potential,2023-12-13
+363,Riya Bose,riya.bose363@example.com,Coimbatore,Tamil Nadu,South,Potential,2024-11-23
+364,Aditya Bose,aditya.bose364@example.com,New Delhi,Delhi,North,At Risk,2024-06-23
+365,Arjun Gupta,arjun.gupta365@example.com,Panaji,Goa,West,Inactive,2023-03-31
+366,Navya Rao,navya.rao366@example.com,Coimbatore,Tamil Nadu,South,Inactive,2023-08-30
+367,Krishna Nair,krishna.nair367@example.com,Patna,Bihar,East,Loyal,2023-05-17
+368,Vivaan Bose,vivaan.bose368@example.com,Faridabad,Haryana,North,Potential,2023-01-03
+369,Sai Das,sai.das369@example.com,Faridabad,Haryana,North,Inactive,2023-07-05
+370,Anjali Bose,anjali.bose370@example.com,Lucknow,Uttar Pradesh,Central,At Risk,2023-10-22
+371,Vikram Sharma,vikram.sharma371@example.com,Bengaluru,Karnataka,South,Loyal,2023-10-28
+372,Navya Pillai,navya.pillai372@example.com,Kochi,Kerala,South,At Risk,2024-02-10
+373,Reyansh Joshi,reyansh.joshi373@example.com,Surat,Gujarat,West,High Value,2024-02-04
+374,Pooja Kapoor,pooja.kapoor374@example.com,Lucknow,Uttar Pradesh,Central,Loyal,2024-05-25
+375,Ananya Desai,ananya.desai375@example.com,Dehradun,Uttarakhand,North,Potential,2023-04-20
+376,Sai Rao,sai.rao376@example.com,Ludhiana,Punjab,North,Potential,2023-12-02
+377,Arjun Das,arjun.das377@example.com,Udaipur,Rajasthan,West,At Risk,2023-04-26
+378,Meera Das,meera.das378@example.com,Chennai,Tamil Nadu,South,Loyal,2024-05-25
+379,Aditya Patel,aditya.patel379@example.com,Panaji,Goa,West,Potential,2023-05-21
+380,Sai Pillai,sai.pillai380@example.com,Ludhiana,Punjab,North,Loyal,2023-05-29
+381,Navya Iyer,navya.iyer381@example.com,Panaji,Goa,West,Loyal,2023-03-24
+382,Vikram Agarwal,vikram.agarwal382@example.com,Ludhiana,Punjab,North,Potential,2023-06-07
+383,Aditya Reddy,aditya.reddy383@example.com,Jaipur,Rajasthan,West,High Value,2024-07-04
+384,Reyansh Chatterjee,reyansh.chatterjee384@example.com,Jaipur,Rajasthan,West,Inactive,2024-08-18
+385,Sanjay Kulkarni,sanjay.kulkarni385@example.com,Mumbai,Maharashtra,West,High Value,2024-01-15
+386,Navya Patel,navya.patel386@example.com,Bhubaneswar,Odisha,East,At Risk,2023-03-27
+387,Karan Verma,karan.verma387@example.com,Lucknow,Uttar Pradesh,Central,Potential,2024-09-05
+388,Neha Reddy,neha.reddy388@example.com,Ranchi,Jharkhand,East,Inactive,2024-06-08
+389,Ishaan Kapoor,ishaan.kapoor389@example.com,Chennai,Tamil Nadu,South,Loyal,2024-04-15
+390,Rahul Pillai,rahul.pillai390@example.com,Patna,Bihar,East,Potential,2024-11-03
+391,Neha Iyer,neha.iyer391@example.com,Vijayawada,Andhra Pradesh,South,At Risk,2024-01-02
+392,Aarav Desai,aarav.desai392@example.com,Amritsar,Punjab,North,Inactive,2024-07-23
+393,Ananya Mehta,ananya.mehta393@example.com,Noida,Uttar Pradesh,Central,At Risk,2023-11-28
+394,Navya Kulkarni,navya.kulkarni394@example.com,Indore,Madhya Pradesh,Central,Potential,2023-03-10
+395,Diya Menon,diya.menon395@example.com,Surat,Gujarat,West,Inactive,2024-09-10
+396,Ayaan Chatterjee,ayaan.chatterjee396@example.com,Mysuru,Karnataka,South,Potential,2023-07-25
+397,Aarav Agarwal,aarav.agarwal397@example.com,Udaipur,Rajasthan,West,Loyal,2024-05-13
+398,Kiara Menon,kiara.menon398@example.com,Patna,Bihar,East,High Value,2023-09-01
+399,Aarav Rao,aarav.rao399@example.com,Panaji,Goa,West,Potential,2024-10-23
+400,Myra Kulkarni,myra.kulkarni400@example.com,Amritsar,Punjab,North,Loyal,2023-06-06
+401,Reyansh Rao,reyansh.rao401@example.com,Lucknow,Uttar Pradesh,Central,Potential,2024-06-29
+402,Ananya Das,ananya.das402@example.com,Visakhapatnam,Andhra Pradesh,South,High Value,2023-11-06
+403,Meera Kapoor,meera.kapoor403@example.com,Patna,Bihar,East,At Risk,2023-03-13
+404,Riya Sharma,riya.sharma404@example.com,Chennai,Tamil Nadu,South,Loyal,2024-09-13
+405,Vihaan Patel,vihaan.patel405@example.com,Pune,Maharashtra,West,Potential,2023-07-04
+406,Meera Bose,meera.bose406@example.com,Kanpur,Uttar Pradesh,Central,Potential,2023-04-29
+407,Aditya Singh,aditya.singh407@example.com,New Delhi,Delhi,North,Loyal,2023-02-19
+408,Myra Bose,myra.bose408@example.com,Indore,Madhya Pradesh,Central,Loyal,2024-05-29
+409,Navya Gupta,navya.gupta409@example.com,Jaipur,Rajasthan,West,Inactive,2024-03-22
+410,Karan Desai,karan.desai410@example.com,Ranchi,Jharkhand,East,Potential,2023-08-31
+411,Priya Iyer,priya.iyer411@example.com,Bengaluru,Karnataka,South,At Risk,2023-10-23
+412,Sanjay Das,sanjay.das412@example.com,Mysuru,Karnataka,South,Potential,2024-04-25
+413,Aditya Nair,aditya.nair413@example.com,Panaji,Goa,West,At Risk,2023-08-04
+414,Vihaan Iyer,vihaan.iyer414@example.com,Amritsar,Punjab,North,Inactive,2024-11-20
+415,Pari Rao,pari.rao415@example.com,Kochi,Kerala,South,At Risk,2024-03-03
+416,Arjun Chatterjee,arjun.chatterjee416@example.com,Ranchi,Jharkhand,East,At Risk,2024-04-17
+417,Vivaan Rao,vivaan.rao417@example.com,Jaipur,Rajasthan,West,Potential,2023-11-01
+418,Rahul Desai,rahul.desai418@example.com,New Delhi,Delhi,North,Potential,2024-06-23
+419,Pari Das,pari.das419@example.com,Pune,Maharashtra,West,At Risk,2023-11-27
+420,Meera Menon,meera.menon420@example.com,Mysuru,Karnataka,South,Inactive,2024-11-02
+421,Vihaan Verma,vihaan.verma421@example.com,Patna,Bihar,East,At Risk,2023-10-14
+422,Meera Joshi,meera.joshi422@example.com,Thiruvananthapuram,Kerala,South,Potential,2023-11-24
+423,Aadhya Rao,aadhya.rao423@example.com,Raipur,Chhattisgarh,Central,Loyal,2023-06-01
+424,Ananya Pillai,ananya.pillai424@example.com,Gurugram,Haryana,North,Potential,2024-01-13
+425,Anika Patel,anika.patel425@example.com,Gurugram,Haryana,North,Loyal,2024-10-20
+426,Diya Chatterjee,diya.chatterjee426@example.com,Amritsar,Punjab,North,Potential,2023-08-04
+427,Reyansh Agarwal,reyansh.agarwal427@example.com,Ahmedabad,Gujarat,West,Inactive,2023-12-17
+428,Rahul Nair,rahul.nair428@example.com,Surat,Gujarat,West,Inactive,2024-05-22
+429,Ayaan Pillai,ayaan.pillai429@example.com,Coimbatore,Tamil Nadu,South,Potential,2024-11-26
+430,Karan Kulkarni,karan.kulkarni430@example.com,Bhopal,Madhya Pradesh,Central,At Risk,2023-10-09
+431,Rohan Bose,rohan.bose431@example.com,Dehradun,Uttarakhand,North,Potential,2023-06-07
+432,Anjali Agarwal,anjali.agarwal432@example.com,Chennai,Tamil Nadu,South,Inactive,2024-09-26
+433,Krishna Chatterjee,krishna.chatterjee433@example.com,Panaji,Goa,West,Potential,2024-01-19
+434,Saanvi Rao,saanvi.rao434@example.com,Siliguri,West Bengal,East,At Risk,2024-04-20
+435,Ishaan Rao,ishaan.rao435@example.com,Kochi,Kerala,South,Loyal,2023-05-13
+436,Aadhya Patel,aadhya.patel436@example.com,Panaji,Goa,West,Loyal,2024-06-15
+437,Vihaan Reddy,vihaan.reddy437@example.com,Kolkata,West Bengal,East,Potential,2023-06-28
+438,Vivaan Agarwal,vivaan.agarwal438@example.com,Thiruvananthapuram,Kerala,South,High Value,2024-02-12
+439,Sanjay Kapoor,sanjay.kapoor439@example.com,New Delhi,Delhi,North,Loyal,2024-02-29
+440,Aadhya Bose,aadhya.bose440@example.com,Kochi,Kerala,South,High Value,2024-03-14
+441,Anika Agarwal,anika.agarwal441@example.com,Dehradun,Uttarakhand,North,Loyal,2023-08-24
+442,Reyansh Patel,reyansh.patel442@example.com,Faridabad,Haryana,North,At Risk,2024-05-22
+443,Vikram Joshi,vikram.joshi443@example.com,Ranchi,Jharkhand,East,Potential,2023-07-30
+444,Neha Sharma,neha.sharma444@example.com,Visakhapatnam,Andhra Pradesh,South,Loyal,2023-03-15
+445,Aarav Kapoor,aarav.kapoor445@example.com,Ahmedabad,Gujarat,West,Potential,2024-03-26
+446,Priya Nair,priya.nair446@example.com,Patna,Bihar,East,Inactive,2024-05-13
+447,Kiara Mehta,kiara.mehta447@example.com,Dehradun,Uttarakhand,North,At Risk,2023-06-21
+448,Reyansh Reddy,reyansh.reddy448@example.com,Dehradun,Uttarakhand,North,Potential,2023-10-17
+449,Rahul Rao,rahul.rao449@example.com,New Delhi,Delhi,North,Inactive,2023-05-21
+450,Aarav Kapoor,aarav.kapoor450@example.com,Raipur,Chhattisgarh,Central,Inactive,2024-10-28
+451,Neha Reddy,neha.reddy451@example.com,Dehradun,Uttarakhand,North,Inactive,2024-09-26
+452,Aditya Bose,aditya.bose452@example.com,Bhopal,Madhya Pradesh,Central,High Value,2023-02-12
+453,Riya Joshi,riya.joshi453@example.com,Patna,Bihar,East,Potential,2023-12-18
+454,Aditya Reddy,aditya.reddy454@example.com,Nagpur,Maharashtra,West,At Risk,2024-08-17
+455,Meera Das,meera.das455@example.com,Thiruvananthapuram,Kerala,South,Potential,2023-04-02
+456,Sai Desai,sai.desai456@example.com,Thiruvananthapuram,Kerala,South,Loyal,2023-11-21
+457,Neha Agarwal,neha.agarwal457@example.com,Raipur,Chhattisgarh,Central,Loyal,2024-08-24
+458,Anika Chatterjee,anika.chatterjee458@example.com,Mysuru,Karnataka,South,Loyal,2023-12-01
+459,Rohan Kapoor,rohan.kapoor459@example.com,Visakhapatnam,Andhra Pradesh,South,Inactive,2023-04-16
+460,Ishaan Verma,ishaan.verma460@example.com,Faridabad,Haryana,North,Potential,2023-10-18
+461,Krishna Sharma,krishna.sharma461@example.com,Ahmedabad,Gujarat,West,Potential,2024-08-14
+462,Sanjay Bose,sanjay.bose462@example.com,Bhubaneswar,Odisha,East,Potential,2024-10-29
+463,Rohan Menon,rohan.menon463@example.com,Kolkata,West Bengal,East,Inactive,2023-07-17
+464,Vihaan Sharma,vihaan.sharma464@example.com,New Delhi,Delhi,North,At Risk,2024-01-15
+465,Aadhya Kapoor,aadhya.kapoor465@example.com,Ludhiana,Punjab,North,Potential,2024-01-01
+466,Ishaan Singh,ishaan.singh466@example.com,Chennai,Tamil Nadu,South,At Risk,2023-08-19
+467,Aarav Gupta,aarav.gupta467@example.com,Gurugram,Haryana,North,Loyal,2023-11-16
+468,Sanjay Kapoor,sanjay.kapoor468@example.com,Vijayawada,Andhra Pradesh,South,Potential,2023-05-24
+469,Myra Kulkarni,myra.kulkarni469@example.com,Faridabad,Haryana,North,Potential,2023-10-22
+470,Priya Gupta,priya.gupta470@example.com,New Delhi,Delhi,North,Inactive,2023-01-16
+471,Priya Pillai,priya.pillai471@example.com,Siliguri,West Bengal,East,Loyal,2023-12-18
+472,Neha Sharma,neha.sharma472@example.com,Raipur,Chhattisgarh,Central,Inactive,2023-09-14
+473,Priya Gupta,priya.gupta473@example.com,Bhubaneswar,Odisha,East,Loyal,2023-03-06
+474,Vihaan Bose,vihaan.bose474@example.com,Dehradun,Uttarakhand,North,Potential,2023-12-25
+475,Anjali Sharma,anjali.sharma475@example.com,Chennai,Tamil Nadu,South,Potential,2023-04-02
+476,Priya Kapoor,priya.kapoor476@example.com,Faridabad,Haryana,North,Loyal,2023-02-02
+477,Meera Das,meera.das477@example.com,Bengaluru,Karnataka,South,Potential,2024-11-10
+478,Arjun Rao,arjun.rao478@example.com,Vijayawada,Andhra Pradesh,South,Inactive,2023-04-01
+479,Diya Agarwal,diya.agarwal479@example.com,Surat,Gujarat,West,Potential,2024-11-14
+480,Saanvi Singh,saanvi.singh480@example.com,Gurugram,Haryana,North,High Value,2024-01-30
+481,Sai Singh,sai.singh481@example.com,Pune,Maharashtra,West,At Risk,2023-07-04
+482,Aadhya Menon,aadhya.menon482@example.com,Chennai,Tamil Nadu,South,At Risk,2024-04-02
+483,Anika Sharma,anika.sharma483@example.com,Ahmedabad,Gujarat,West,Loyal,2024-09-22
+484,Pari Patel,pari.patel484@example.com,Kochi,Kerala,South,Potential,2024-10-28
+485,Vihaan Agarwal,vihaan.agarwal485@example.com,Pune,Maharashtra,West,Inactive,2024-10-17
+486,Rohan Das,rohan.das486@example.com,Siliguri,West Bengal,East,At Risk,2023-12-09
+487,Myra Pillai,myra.pillai487@example.com,Ludhiana,Punjab,North,Potential,2023-05-05
+488,Aarav Chatterjee,aarav.chatterjee488@example.com,Bhubaneswar,Odisha,East,Inactive,2023-07-05
+489,Vihaan Gupta,vihaan.gupta489@example.com,Dehradun,Uttarakhand,North,Loyal,2023-07-11
+490,Meera Singh,meera.singh490@example.com,Ludhiana,Punjab,North,Loyal,2023-10-20
+491,Ishaan Chatterjee,ishaan.chatterjee491@example.com,Chennai,Tamil Nadu,South,Loyal,2023-01-18
+492,Ananya Agarwal,ananya.agarwal492@example.com,Amritsar,Punjab,North,Inactive,2023-02-01
+493,Aarav Pillai,aarav.pillai493@example.com,Patna,Bihar,East,Potential,2023-02-17
+494,Sai Rao,sai.rao494@example.com,Panaji,Goa,West,Inactive,2023-03-27
+495,Aditya Agarwal,aditya.agarwal495@example.com,Panaji,Goa,West,Potential,2023-12-11
+496,Priya Iyer,priya.iyer496@example.com,Indore,Madhya Pradesh,Central,Loyal,2024-04-04
+497,Rahul Chatterjee,rahul.chatterjee497@example.com,Faridabad,Haryana,North,At Risk,2023-12-30
+498,Anjali Rao,anjali.rao498@example.com,Dehradun,Uttarakhand,North,Loyal,2024-08-19
+499,Ayaan Kulkarni,ayaan.kulkarni499@example.com,Bengaluru,Karnataka,South,Potential,2023-10-25
+500,Meera Rao,meera.rao500@example.com,Mumbai,Maharashtra,West,Inactive,2024-06-13
+501,Kiara Iyer,kiara.iyer501@example.com,Bhubaneswar,Odisha,East,Potential,2023-09-20
+502,Ananya Joshi,ananya.joshi502@example.com,Faridabad,Haryana,North,Potential,2023-10-17
+503,Ayaan Sharma,ayaan.sharma503@example.com,Panaji,Goa,West,Inactive,2024-07-03
+504,Sanjay Agarwal,sanjay.agarwal504@example.com,Raipur,Chhattisgarh,Central,Loyal,2024-01-04
+505,Rahul Gupta,rahul.gupta505@example.com,New Delhi,Delhi,North,Potential,2023-07-04
+506,Diya Desai,diya.desai506@example.com,Lucknow,Uttar Pradesh,Central,Potential,2023-07-02
+507,Rahul Kapoor,rahul.kapoor507@example.com,Kolkata,West Bengal,East,High Value,2023-12-25
+508,Diya Agarwal,diya.agarwal508@example.com,Mysuru,Karnataka,South,Loyal,2023-07-02
+509,Vihaan Joshi,vihaan.joshi509@example.com,Dehradun,Uttarakhand,North,Potential,2023-08-22
+510,Arjun Desai,arjun.desai510@example.com,Kochi,Kerala,South,Loyal,2024-11-30
+511,Priya Agarwal,priya.agarwal511@example.com,Coimbatore,Tamil Nadu,South,Potential,2024-10-06
+512,Riya Agarwal,riya.agarwal512@example.com,New Delhi,Delhi,North,Inactive,2023-08-30
+513,Aadhya Gupta,aadhya.gupta513@example.com,Coimbatore,Tamil Nadu,South,Potential,2023-05-14
+514,Navya Verma,navya.verma514@example.com,Lucknow,Uttar Pradesh,Central,At Risk,2024-02-18
+515,Ananya Rao,ananya.rao515@example.com,Kolkata,West Bengal,East,At Risk,2023-03-07
+516,Kiara Patel,kiara.patel516@example.com,Kanpur,Uttar Pradesh,Central,Inactive,2024-08-18
+517,Pari Bose,pari.bose517@example.com,Coimbatore,Tamil Nadu,South,Loyal,2023-02-12
+518,Sai Reddy,sai.reddy518@example.com,Kochi,Kerala,South,Potential,2024-05-02
+519,Ayaan Gupta,ayaan.gupta519@example.com,Bhubaneswar,Odisha,East,Potential,2024-04-29
+520,Diya Iyer,diya.iyer520@example.com,Jaipur,Rajasthan,West,Potential,2024-11-07
+521,Ananya Verma,ananya.verma521@example.com,Siliguri,West Bengal,East,At Risk,2024-05-12
+522,Anjali Sharma,anjali.sharma522@example.com,Surat,Gujarat,West,Potential,2023-03-06
+523,Aarav Kapoor,aarav.kapoor523@example.com,Kolkata,West Bengal,East,At Risk,2023-02-26
+524,Navya Rao,navya.rao524@example.com,Udaipur,Rajasthan,West,At Risk,2024-06-12
+525,Aditya Joshi,aditya.joshi525@example.com,Udaipur,Rajasthan,West,High Value,2024-05-11
+526,Riya Sharma,riya.sharma526@example.com,Nagpur,Maharashtra,West,Potential,2023-05-12
+527,Rohan Verma,rohan.verma527@example.com,Thiruvananthapuram,Kerala,South,Loyal,2023-12-13
+528,Krishna Iyer,krishna.iyer528@example.com,Panaji,Goa,West,Loyal,2023-05-16
+529,Reyansh Gupta,reyansh.gupta529@example.com,Panaji,Goa,West,At Risk,2024-02-29
+530,Karan Kulkarni,karan.kulkarni530@example.com,Ludhiana,Punjab,North,High Value,2023-01-04
+531,Vikram Nair,vikram.nair531@example.com,Panaji,Goa,West,At Risk,2023-11-27
+532,Priya Kapoor,priya.kapoor532@example.com,Visakhapatnam,Andhra Pradesh,South,Potential,2024-01-28
+533,Navya Das,navya.das533@example.com,Bhubaneswar,Odisha,East,Inactive,2024-08-01
+534,Sai Patel,sai.patel534@example.com,Bengaluru,Karnataka,South,Potential,2023-07-21
+535,Neha Chatterjee,neha.chatterjee535@example.com,New Delhi,Delhi,North,Potential,2024-10-05
+536,Aditya Desai,aditya.desai536@example.com,Dehradun,Uttarakhand,North,Potential,2023-02-26
+537,Vihaan Reddy,vihaan.reddy537@example.com,Coimbatore,Tamil Nadu,South,Loyal,2023-04-04
+538,Anika Gupta,anika.gupta538@example.com,Thiruvananthapuram,Kerala,South,Potential,2024-08-01
+539,Reyansh Kulkarni,reyansh.kulkarni539@example.com,Gurugram,Haryana,North,At Risk,2024-08-05
+540,Ishaan Reddy,ishaan.reddy540@example.com,Bhubaneswar,Odisha,East,High Value,2024-05-03
+541,Krishna Sharma,krishna.sharma541@example.com,Nagpur,Maharashtra,West,At Risk,2023-02-16
+542,Ishaan Sharma,ishaan.sharma542@example.com,Udaipur,Rajasthan,West,Loyal,2024-09-13
+543,Ayaan Pillai,ayaan.pillai543@example.com,Nagpur,Maharashtra,West,Potential,2023-10-26
+544,Kiara Kulkarni,kiara.kulkarni544@example.com,Panaji,Goa,West,Potential,2024-11-23
+545,Krishna Menon,krishna.menon545@example.com,Faridabad,Haryana,North,High Value,2023-03-10
+546,Neha Iyer,neha.iyer546@example.com,Panaji,Goa,West,At Risk,2024-08-02
+547,Myra Rao,myra.rao547@example.com,Chennai,Tamil Nadu,South,Potential,2023-08-17
+548,Vivaan Patel,vivaan.patel548@example.com,Visakhapatnam,Andhra Pradesh,South,Potential,2024-07-18
+549,Aadhya Mehta,aadhya.mehta549@example.com,Ranchi,Jharkhand,East,Loyal,2024-11-07
+550,Anika Sharma,anika.sharma550@example.com,Dehradun,Uttarakhand,North,Loyal,2023-03-21
+551,Anjali Gupta,anjali.gupta551@example.com,Mumbai,Maharashtra,West,High Value,2024-06-07
+552,Anika Bose,anika.bose552@example.com,Dehradun,Uttarakhand,North,At Risk,2023-09-09
+553,Anjali Iyer,anjali.iyer553@example.com,Amritsar,Punjab,North,Inactive,2023-10-05
+554,Navya Joshi,navya.joshi554@example.com,New Delhi,Delhi,North,Potential,2023-06-04
+555,Diya Bose,diya.bose555@example.com,Panaji,Goa,West,Inactive,2023-05-23
+556,Krishna Kapoor,krishna.kapoor556@example.com,Siliguri,West Bengal,East,Potential,2024-10-14
+557,Anjali Reddy,anjali.reddy557@example.com,Panaji,Goa,West,Potential,2024-01-12
+558,Anjali Kapoor,anjali.kapoor558@example.com,Chennai,Tamil Nadu,South,Loyal,2023-04-06
+559,Vihaan Pillai,vihaan.pillai559@example.com,Bhopal,Madhya Pradesh,Central,Loyal,2024-06-19
+560,Meera Patel,meera.patel560@example.com,New Delhi,Delhi,North,At Risk,2023-02-18
+561,Navya Verma,navya.verma561@example.com,Panaji,Goa,West,At Risk,2024-08-02
+562,Anika Agarwal,anika.agarwal562@example.com,Panaji,Goa,West,Potential,2024-05-03
+563,Saanvi Rao,saanvi.rao563@example.com,Bhopal,Madhya Pradesh,Central,At Risk,2024-04-15
+564,Arjun Mehta,arjun.mehta564@example.com,Noida,Uttar Pradesh,Central,Loyal,2024-01-13
+565,Kiara Rao,kiara.rao565@example.com,Vijayawada,Andhra Pradesh,South,High Value,2024-08-18
+566,Navya Desai,navya.desai566@example.com,Patna,Bihar,East,At Risk,2023-05-13
+567,Navya Sharma,navya.sharma567@example.com,Udaipur,Rajasthan,West,Potential,2024-02-29
+568,Krishna Das,krishna.das568@example.com,New Delhi,Delhi,North,Potential,2024-09-03
+569,Sai Nair,sai.nair569@example.com,Ahmedabad,Gujarat,West,Potential,2023-01-11
+570,Anika Iyer,anika.iyer570@example.com,Jaipur,Rajasthan,West,Potential,2023-08-26
+571,Diya Kapoor,diya.kapoor571@example.com,Vijayawada,Andhra Pradesh,South,At Risk,2023-07-05
+572,Arjun Reddy,arjun.reddy572@example.com,Amritsar,Punjab,North,Loyal,2023-09-19
+573,Myra Agarwal,myra.agarwal573@example.com,Raipur,Chhattisgarh,Central,Loyal,2023-03-16
+574,Sanjay Pillai,sanjay.pillai574@example.com,Mysuru,Karnataka,South,Potential,2024-07-14
+575,Meera Das,meera.das575@example.com,Dehradun,Uttarakhand,North,At Risk,2023-05-12
+576,Meera Chatterjee,meera.chatterjee576@example.com,Amritsar,Punjab,North,Inactive,2024-01-01
+577,Reyansh Mehta,reyansh.mehta577@example.com,Patna,Bihar,East,Inactive,2023-12-16
+578,Kiara Bose,kiara.bose578@example.com,Faridabad,Haryana,North,Inactive,2024-05-16
+579,Vikram Verma,vikram.verma579@example.com,Amritsar,Punjab,North,Inactive,2024-01-08
+580,Aadhya Kulkarni,aadhya.kulkarni580@example.com,Ranchi,Jharkhand,East,Potential,2023-03-25
+581,Ananya Patel,ananya.patel581@example.com,Gurugram,Haryana,North,Inactive,2023-01-15
+582,Reyansh Singh,reyansh.singh582@example.com,Siliguri,West Bengal,East,Loyal,2024-01-30
+583,Aadhya Reddy,aadhya.reddy583@example.com,Vijayawada,Andhra Pradesh,South,Inactive,2024-11-04
+584,Rahul Kapoor,rahul.kapoor584@example.com,Kanpur,Uttar Pradesh,Central,At Risk,2024-03-10
+585,Rohan Sharma,rohan.sharma585@example.com,Patna,Bihar,East,High Value,2024-11-01
+586,Ishaan Sharma,ishaan.sharma586@example.com,Siliguri,West Bengal,East,Potential,2024-07-18
+587,Myra Gupta,myra.gupta587@example.com,Patna,Bihar,East,Potential,2024-08-04
+588,Diya Rao,diya.rao588@example.com,Siliguri,West Bengal,East,Inactive,2023-05-02
+589,Ayaan Menon,ayaan.menon589@example.com,Visakhapatnam,Andhra Pradesh,South,Potential,2023-03-18
+590,Pari Mehta,pari.mehta590@example.com,Raipur,Chhattisgarh,Central,Loyal,2024-11-25
+591,Aadhya Bose,aadhya.bose591@example.com,Bengaluru,Karnataka,South,High Value,2024-03-08
+592,Rohan Chatterjee,rohan.chatterjee592@example.com,Nagpur,Maharashtra,West,Potential,2023-08-15
+593,Aditya Verma,aditya.verma593@example.com,Amritsar,Punjab,North,At Risk,2024-11-27
+594,Kiara Bose,kiara.bose594@example.com,Faridabad,Haryana,North,At Risk,2023-09-17
+595,Rahul Kulkarni,rahul.kulkarni595@example.com,Patna,Bihar,East,At Risk,2024-10-12
+596,Aarav Singh,aarav.singh596@example.com,Indore,Madhya Pradesh,Central,Inactive,2023-02-23
+597,Pooja Gupta,pooja.gupta597@example.com,Ludhiana,Punjab,North,Potential,2023-05-24
+598,Saanvi Chatterjee,saanvi.chatterjee598@example.com,Bengaluru,Karnataka,South,At Risk,2024-09-17
+599,Vihaan Desai,vihaan.desai599@example.com,Ranchi,Jharkhand,East,Loyal,2024-10-01
+600,Anika Das,anika.das600@example.com,Ludhiana,Punjab,North,Inactive,2023-11-02
+601,Aadhya Menon,aadhya.menon601@example.com,Surat,Gujarat,West,At Risk,2023-01-23
+602,Priya Mehta,priya.mehta602@example.com,Amritsar,Punjab,North,Loyal,2023-02-06
+603,Myra Menon,myra.menon603@example.com,Raipur,Chhattisgarh,Central,Inactive,2023-08-07
+604,Kiara Singh,kiara.singh604@example.com,Visakhapatnam,Andhra Pradesh,South,Loyal,2024-08-25
+605,Meera Agarwal,meera.agarwal605@example.com,Panaji,Goa,West,Inactive,2024-11-02
+606,Arjun Rao,arjun.rao606@example.com,Faridabad,Haryana,North,Potential,2024-05-14
+607,Krishna Das,krishna.das607@example.com,Kochi,Kerala,South,Loyal,2023-02-27
+608,Rohan Kapoor,rohan.kapoor608@example.com,Vijayawada,Andhra Pradesh,South,At Risk,2023-05-10
+609,Reyansh Singh,reyansh.singh609@example.com,Coimbatore,Tamil Nadu,South,Inactive,2023-05-19
+610,Neha Iyer,neha.iyer610@example.com,Panaji,Goa,West,Potential,2024-08-27
+611,Meera Pillai,meera.pillai611@example.com,Vijayawada,Andhra Pradesh,South,At Risk,2023-01-04
+612,Anjali Nair,anjali.nair612@example.com,Jaipur,Rajasthan,West,Potential,2024-07-23
+613,Reyansh Singh,reyansh.singh613@example.com,Pune,Maharashtra,West,Inactive,2023-10-14
+614,Reyansh Mehta,reyansh.mehta614@example.com,Faridabad,Haryana,North,Inactive,2023-10-05
+615,Pari Bose,pari.bose615@example.com,Kochi,Kerala,South,Potential,2023-10-01
+616,Diya Menon,diya.menon616@example.com,Dehradun,Uttarakhand,North,Potential,2023-07-31
+617,Diya Gupta,diya.gupta617@example.com,Kochi,Kerala,South,Potential,2024-02-12
+618,Rohan Desai,rohan.desai618@example.com,Kolkata,West Bengal,East,Inactive,2023-02-16
+619,Sanjay Verma,sanjay.verma619@example.com,Surat,Gujarat,West,Loyal,2024-02-12
+620,Neha Mehta,neha.mehta620@example.com,Vijayawada,Andhra Pradesh,South,Loyal,2023-04-30
+621,Diya Singh,diya.singh621@example.com,Bhubaneswar,Odisha,East,Inactive,2023-02-12
+622,Pooja Bose,pooja.bose622@example.com,Noida,Uttar Pradesh,Central,Loyal,2024-07-27
+623,Diya Kulkarni,diya.kulkarni623@example.com,Dehradun,Uttarakhand,North,Inactive,2024-04-27
+624,Pari Desai,pari.desai624@example.com,Kolkata,West Bengal,East,Inactive,2023-01-16
+625,Ananya Reddy,ananya.reddy625@example.com,Raipur,Chhattisgarh,Central,Loyal,2024-01-26
+626,Ishaan Nair,ishaan.nair626@example.com,Raipur,Chhattisgarh,Central,Loyal,2024-08-02
+627,Reyansh Kapoor,reyansh.kapoor627@example.com,Nagpur,Maharashtra,West,Potential,2024-11-24
+628,Meera Bose,meera.bose628@example.com,Amritsar,Punjab,North,Potential,2023-06-26
+629,Sai Bose,sai.bose629@example.com,Chennai,Tamil Nadu,South,At Risk,2024-07-03
+630,Diya Kulkarni,diya.kulkarni630@example.com,New Delhi,Delhi,North,Inactive,2023-01-02
+631,Pari Iyer,pari.iyer631@example.com,Mysuru,Karnataka,South,Potential,2024-02-20
+632,Myra Verma,myra.verma632@example.com,Ludhiana,Punjab,North,At Risk,2024-02-07
+633,Reyansh Pillai,reyansh.pillai633@example.com,Amritsar,Punjab,North,Loyal,2024-08-25
+634,Reyansh Pillai,reyansh.pillai634@example.com,Ahmedabad,Gujarat,West,Loyal,2023-12-14
+635,Reyansh Kapoor,reyansh.kapoor635@example.com,Dehradun,Uttarakhand,North,At Risk,2024-08-09
+636,Meera Kulkarni,meera.kulkarni636@example.com,Faridabad,Haryana,North,At Risk,2023-12-23
+637,Myra Pillai,myra.pillai637@example.com,Udaipur,Rajasthan,West,At Risk,2024-10-05
+638,Anika Agarwal,anika.agarwal638@example.com,Gurugram,Haryana,North,High Value,2023-12-20
+639,Sanjay Iyer,sanjay.iyer639@example.com,Ahmedabad,Gujarat,West,Inactive,2023-04-24
+640,Reyansh Pillai,reyansh.pillai640@example.com,Nagpur,Maharashtra,West,High Value,2024-02-26
+641,Vihaan Iyer,vihaan.iyer641@example.com,Bhubaneswar,Odisha,East,Potential,2024-01-05
+642,Aditya Chatterjee,aditya.chatterjee642@example.com,New Delhi,Delhi,North,Loyal,2023-06-04
+643,Rohan Desai,rohan.desai643@example.com,Amritsar,Punjab,North,At Risk,2024-01-13
+644,Diya Desai,diya.desai644@example.com,Raipur,Chhattisgarh,Central,Inactive,2023-02-22
+645,Aditya Joshi,aditya.joshi645@example.com,Nagpur,Maharashtra,West,Inactive,2024-01-05
+646,Rohan Gupta,rohan.gupta646@example.com,Thiruvananthapuram,Kerala,South,At Risk,2024-11-29
+647,Navya Patel,navya.patel647@example.com,Kochi,Kerala,South,Potential,2023-07-14
+648,Karan Agarwal,karan.agarwal648@example.com,Mysuru,Karnataka,South,Loyal,2023-04-27
+649,Pooja Rao,pooja.rao649@example.com,New Delhi,Delhi,North,At Risk,2023-01-28
+650,Neha Joshi,neha.joshi650@example.com,Amritsar,Punjab,North,Loyal,2023-06-28
+651,Rohan Mehta,rohan.mehta651@example.com,Raipur,Chhattisgarh,Central,Loyal,2024-03-02
+652,Anjali Verma,anjali.verma652@example.com,Bhopal,Madhya Pradesh,Central,At Risk,2023-11-22
+653,Rahul Patel,rahul.patel653@example.com,Dehradun,Uttarakhand,North,At Risk,2023-06-05
+654,Neha Mehta,neha.mehta654@example.com,Kochi,Kerala,South,Inactive,2023-09-05
+655,Myra Singh,myra.singh655@example.com,Patna,Bihar,East,Loyal,2024-03-03
+656,Saanvi Pillai,saanvi.pillai656@example.com,Pune,Maharashtra,West,Potential,2023-06-21
+657,Anika Verma,anika.verma657@example.com,Amritsar,Punjab,North,Loyal,2023-02-22
+658,Diya Gupta,diya.gupta658@example.com,Vijayawada,Andhra Pradesh,South,Potential,2024-07-24
+659,Aadhya Mehta,aadhya.mehta659@example.com,Thiruvananthapuram,Kerala,South,Inactive,2024-11-01
+660,Aadhya Mehta,aadhya.mehta660@example.com,Ahmedabad,Gujarat,West,Potential,2024-01-03
+661,Sanjay Patel,sanjay.patel661@example.com,Kochi,Kerala,South,Potential,2024-08-12
+662,Reyansh Sharma,reyansh.sharma662@example.com,Bhubaneswar,Odisha,East,Inactive,2024-06-09
+663,Aarav Agarwal,aarav.agarwal663@example.com,Kochi,Kerala,South,Loyal,2023-03-24
+664,Krishna Gupta,krishna.gupta664@example.com,New Delhi,Delhi,North,Potential,2024-01-06
+665,Arjun Gupta,arjun.gupta665@example.com,New Delhi,Delhi,North,Loyal,2024-01-20
+666,Saanvi Sharma,saanvi.sharma666@example.com,Coimbatore,Tamil Nadu,South,Loyal,2023-12-11
+667,Sai Patel,sai.patel667@example.com,Dehradun,Uttarakhand,North,Loyal,2024-09-10
+668,Pari Das,pari.das668@example.com,Ranchi,Jharkhand,East,At Risk,2024-05-28
+669,Reyansh Joshi,reyansh.joshi669@example.com,Indore,Madhya Pradesh,Central,At Risk,2023-10-22
+670,Saanvi Das,saanvi.das670@example.com,Coimbatore,Tamil Nadu,South,Loyal,2023-12-04
+671,Anika Verma,anika.verma671@example.com,Bhubaneswar,Odisha,East,Inactive,2023-10-13
+672,Pooja Patel,pooja.patel672@example.com,Ranchi,Jharkhand,East,At Risk,2023-12-28
+673,Aadhya Bose,aadhya.bose673@example.com,Jaipur,Rajasthan,West,Loyal,2023-06-20
+674,Vivaan Pillai,vivaan.pillai674@example.com,Panaji,Goa,West,At Risk,2024-11-30
+675,Arjun Chatterjee,arjun.chatterjee675@example.com,Dehradun,Uttarakhand,North,At Risk,2023-02-11
+676,Rohan Menon,rohan.menon676@example.com,Bhubaneswar,Odisha,East,Potential,2023-09-13
+677,Meera Joshi,meera.joshi677@example.com,Udaipur,Rajasthan,West,Loyal,2024-05-17
+678,Neha Gupta,neha.gupta678@example.com,Panaji,Goa,West,Potential,2024-05-13
+679,Aarav Bose,aarav.bose679@example.com,Mysuru,Karnataka,South,Inactive,2023-06-05
+680,Sai Desai,sai.desai680@example.com,Panaji,Goa,West,Loyal,2023-10-20
+681,Riya Kulkarni,riya.kulkarni681@example.com,Thiruvananthapuram,Kerala,South,Inactive,2024-10-13
+682,Arjun Pillai,arjun.pillai682@example.com,Mumbai,Maharashtra,West,Inactive,2023-12-29
+683,Ishaan Nair,ishaan.nair683@example.com,Kochi,Kerala,South,High Value,2024-04-21
+684,Meera Patel,meera.patel684@example.com,Panaji,Goa,West,Inactive,2024-06-04
+685,Pari Bose,pari.bose685@example.com,Thiruvananthapuram,Kerala,South,Potential,2023-07-18
+686,Sai Reddy,sai.reddy686@example.com,Ranchi,Jharkhand,East,Potential,2024-03-31
+687,Saanvi Bose,saanvi.bose687@example.com,Amritsar,Punjab,North,Potential,2023-05-16
+688,Karan Reddy,karan.reddy688@example.com,Jaipur,Rajasthan,West,Inactive,2024-03-05
+689,Sai Verma,sai.verma689@example.com,Kochi,Kerala,South,At Risk,2024-06-05
+690,Meera Reddy,meera.reddy690@example.com,New Delhi,Delhi,North,Potential,2023-05-25
+691,Rahul Agarwal,rahul.agarwal691@example.com,Udaipur,Rajasthan,West,Potential,2024-01-20
+692,Vihaan Nair,vihaan.nair692@example.com,Kolkata,West Bengal,East,At Risk,2024-08-21
+693,Riya Joshi,riya.joshi693@example.com,Dehradun,Uttarakhand,North,Inactive,2023-11-24
+694,Aditya Mehta,aditya.mehta694@example.com,Mumbai,Maharashtra,West,At Risk,2024-02-17
+695,Ayaan Iyer,ayaan.iyer695@example.com,Ludhiana,Punjab,North,At Risk,2023-08-11
+696,Myra Iyer,myra.iyer696@example.com,Panaji,Goa,West,At Risk,2024-09-05
+697,Aditya Rao,aditya.rao697@example.com,Lucknow,Uttar Pradesh,Central,Potential,2023-06-14
+698,Vihaan Joshi,vihaan.joshi698@example.com,Coimbatore,Tamil Nadu,South,Potential,2023-05-03
+699,Krishna Sharma,krishna.sharma699@example.com,Ludhiana,Punjab,North,Inactive,2024-02-26
+700,Diya Iyer,diya.iyer700@example.com,Coimbatore,Tamil Nadu,South,High Value,2023-09-25
+701,Karan Agarwal,karan.agarwal701@example.com,Indore,Madhya Pradesh,Central,At Risk,2023-01-04
+702,Ayaan Agarwal,ayaan.agarwal702@example.com,Faridabad,Haryana,North,Potential,2024-04-16
+703,Neha Reddy,neha.reddy703@example.com,Visakhapatnam,Andhra Pradesh,South,Inactive,2023-11-19
+704,Meera Nair,meera.nair704@example.com,Patna,Bihar,East,Loyal,2024-09-12
+705,Riya Chatterjee,riya.chatterjee705@example.com,Dehradun,Uttarakhand,North,At Risk,2024-03-06
+706,Sanjay Nair,sanjay.nair706@example.com,Coimbatore,Tamil Nadu,South,Loyal,2023-12-20
+707,Arjun Nair,arjun.nair707@example.com,Bhubaneswar,Odisha,East,Potential,2023-04-26
+708,Aadhya Mehta,aadhya.mehta708@example.com,Visakhapatnam,Andhra Pradesh,South,Potential,2023-05-08
+709,Myra Das,myra.das709@example.com,Pune,Maharashtra,West,High Value,2023-02-18
+710,Aarav Agarwal,aarav.agarwal710@example.com,Panaji,Goa,West,Inactive,2024-04-05
+711,Priya Iyer,priya.iyer711@example.com,Bhubaneswar,Odisha,East,At Risk,2023-06-17
+712,Ishaan Pillai,ishaan.pillai712@example.com,New Delhi,Delhi,North,At Risk,2024-07-27
+713,Reyansh Desai,reyansh.desai713@example.com,Vijayawada,Andhra Pradesh,South,Potential,2024-01-18
+714,Pooja Reddy,pooja.reddy714@example.com,Raipur,Chhattisgarh,Central,Inactive,2024-08-18
+715,Ayaan Verma,ayaan.verma715@example.com,Indore,Madhya Pradesh,Central,High Value,2023-08-13
+716,Sai Nair,sai.nair716@example.com,Chennai,Tamil Nadu,South,Inactive,2023-05-17
+717,Vivaan Mehta,vivaan.mehta717@example.com,Kanpur,Uttar Pradesh,Central,At Risk,2024-02-10
+718,Aarav Agarwal,aarav.agarwal718@example.com,Bhubaneswar,Odisha,East,Loyal,2023-07-16
+719,Karan Sharma,karan.sharma719@example.com,Chennai,Tamil Nadu,South,At Risk,2023-11-12
+720,Rahul Iyer,rahul.iyer720@example.com,Kolkata,West Bengal,East,At Risk,2024-11-29
+721,Ishaan Pillai,ishaan.pillai721@example.com,Amritsar,Punjab,North,Potential,2023-11-14
+722,Ayaan Patel,ayaan.patel722@example.com,Gurugram,Haryana,North,Potential,2024-03-13
+723,Saanvi Kapoor,saanvi.kapoor723@example.com,Lucknow,Uttar Pradesh,Central,Inactive,2023-03-10
+724,Anika Bose,anika.bose724@example.com,Amritsar,Punjab,North,At Risk,2024-01-29
+725,Diya Joshi,diya.joshi725@example.com,Mumbai,Maharashtra,West,Potential,2023-05-02
+726,Saanvi Chatterjee,saanvi.chatterjee726@example.com,Indore,Madhya Pradesh,Central,Inactive,2023-01-24
+727,Sanjay Gupta,sanjay.gupta727@example.com,Jaipur,Rajasthan,West,Loyal,2023-01-01
+728,Ananya Singh,ananya.singh728@example.com,Bhubaneswar,Odisha,East,Loyal,2023-05-11
+729,Priya Agarwal,priya.agarwal729@example.com,Bengaluru,Karnataka,South,High Value,2023-11-23
+730,Vikram Verma,vikram.verma730@example.com,Indore,Madhya Pradesh,Central,Loyal,2024-05-15
+731,Vivaan Reddy,vivaan.reddy731@example.com,Siliguri,West Bengal,East,Loyal,2024-01-14
+732,Anjali Reddy,anjali.reddy732@example.com,Kolkata,West Bengal,East,At Risk,2024-05-12
+733,Rohan Patel,rohan.patel733@example.com,Raipur,Chhattisgarh,Central,High Value,2024-08-29
+734,Navya Agarwal,navya.agarwal734@example.com,Kochi,Kerala,South,Potential,2024-06-15
+735,Sai Das,sai.das735@example.com,Coimbatore,Tamil Nadu,South,High Value,2023-02-26
+736,Anika Iyer,anika.iyer736@example.com,Nagpur,Maharashtra,West,Loyal,2023-07-23
+737,Kiara Mehta,kiara.mehta737@example.com,New Delhi,Delhi,North,Potential,2023-06-01
+738,Pari Joshi,pari.joshi738@example.com,Kochi,Kerala,South,Loyal,2023-04-19
+739,Neha Bose,neha.bose739@example.com,Raipur,Chhattisgarh,Central,Inactive,2024-10-03
+740,Meera Verma,meera.verma740@example.com,Patna,Bihar,East,Potential,2023-01-03
+741,Vihaan Chatterjee,vihaan.chatterjee741@example.com,New Delhi,Delhi,North,Loyal,2023-09-04
+742,Priya Mehta,priya.mehta742@example.com,Panaji,Goa,West,Potential,2023-04-13
+743,Rahul Iyer,rahul.iyer743@example.com,Ahmedabad,Gujarat,West,High Value,2023-02-22
+744,Rahul Iyer,rahul.iyer744@example.com,Coimbatore,Tamil Nadu,South,At Risk,2024-05-01
+745,Rahul Menon,rahul.menon745@example.com,Dehradun,Uttarakhand,North,At Risk,2023-05-17
+746,Kiara Nair,kiara.nair746@example.com,Bhubaneswar,Odisha,East,Potential,2023-03-20
+747,Aditya Sharma,aditya.sharma747@example.com,Bhubaneswar,Odisha,East,Loyal,2023-04-03
+748,Karan Gupta,karan.gupta748@example.com,Indore,Madhya Pradesh,Central,Potential,2024-04-05
+749,Priya Iyer,priya.iyer749@example.com,Ranchi,Jharkhand,East,Inactive,2023-04-03
+750,Ananya Chatterjee,ananya.chatterjee750@example.com,Kolkata,West Bengal,East,Inactive,2024-09-07
+751,Saanvi Iyer,saanvi.iyer751@example.com,Mysuru,Karnataka,South,Potential,2024-10-25
+752,Rahul Bose,rahul.bose752@example.com,Ludhiana,Punjab,North,Loyal,2023-08-05
+753,Arjun Mehta,arjun.mehta753@example.com,Kolkata,West Bengal,East,High Value,2023-07-28
+754,Ananya Menon,ananya.menon754@example.com,Mysuru,Karnataka,South,Loyal,2023-05-13
+755,Vikram Das,vikram.das755@example.com,Surat,Gujarat,West,Loyal,2023-08-07
+756,Anika Desai,anika.desai756@example.com,Patna,Bihar,East,At Risk,2024-01-24
+757,Pari Das,pari.das757@example.com,Visakhapatnam,Andhra Pradesh,South,Potential,2023-03-15
+758,Vihaan Verma,vihaan.verma758@example.com,Ahmedabad,Gujarat,West,Loyal,2023-04-23
+759,Navya Sharma,navya.sharma759@example.com,Kolkata,West Bengal,East,Potential,2023-03-05
+760,Karan Joshi,karan.joshi760@example.com,Chennai,Tamil Nadu,South,At Risk,2024-01-17
+761,Vikram Das,vikram.das761@example.com,Chennai,Tamil Nadu,South,At Risk,2023-12-14
+762,Kiara Gupta,kiara.gupta762@example.com,Bengaluru,Karnataka,South,Inactive,2023-11-09
+763,Karan Agarwal,karan.agarwal763@example.com,Indore,Madhya Pradesh,Central,High Value,2023-02-13
+764,Vihaan Agarwal,vihaan.agarwal764@example.com,Amritsar,Punjab,North,High Value,2024-07-18
+765,Aadhya Iyer,aadhya.iyer765@example.com,Ranchi,Jharkhand,East,At Risk,2023-12-06
+766,Vihaan Pillai,vihaan.pillai766@example.com,Nagpur,Maharashtra,West,Loyal,2023-08-06
+767,Aadhya Patel,aadhya.patel767@example.com,Dehradun,Uttarakhand,North,At Risk,2024-07-14
+768,Aditya Bose,aditya.bose768@example.com,Siliguri,West Bengal,East,Potential,2024-09-13
+769,Vikram Mehta,vikram.mehta769@example.com,Gurugram,Haryana,North,Loyal,2023-01-19
+770,Ananya Kapoor,ananya.kapoor770@example.com,Chennai,Tamil Nadu,South,Potential,2024-01-29
+771,Myra Desai,myra.desai771@example.com,Vijayawada,Andhra Pradesh,South,Potential,2024-07-29
+772,Vihaan Menon,vihaan.menon772@example.com,New Delhi,Delhi,North,Potential,2024-04-15
+773,Ishaan Singh,ishaan.singh773@example.com,Pune,Maharashtra,West,At Risk,2024-09-15
+774,Aarav Gupta,aarav.gupta774@example.com,New Delhi,Delhi,North,High Value,2023-05-21
+775,Pari Joshi,pari.joshi775@example.com,Coimbatore,Tamil Nadu,South,Potential,2024-04-19
+776,Ishaan Iyer,ishaan.iyer776@example.com,Panaji,Goa,West,Potential,2024-02-14
+777,Anika Mehta,anika.mehta777@example.com,Kolkata,West Bengal,East,Potential,2023-08-19
+778,Aadhya Kapoor,aadhya.kapoor778@example.com,Gurugram,Haryana,North,Inactive,2023-01-26
+779,Karan Rao,karan.rao779@example.com,Mumbai,Maharashtra,West,Potential,2024-03-04
+780,Aadhya Sharma,aadhya.sharma780@example.com,Bhopal,Madhya Pradesh,Central,Inactive,2023-07-20
+781,Myra Nair,myra.nair781@example.com,Surat,Gujarat,West,Potential,2024-01-29
+782,Myra Rao,myra.rao782@example.com,Patna,Bihar,East,Inactive,2023-04-10
+783,Rohan Chatterjee,rohan.chatterjee783@example.com,Ludhiana,Punjab,North,Inactive,2023-01-20
+784,Meera Desai,meera.desai784@example.com,Panaji,Goa,West,High Value,2023-03-19
+785,Myra Bose,myra.bose785@example.com,Surat,Gujarat,West,High Value,2023-11-05
+786,Rahul Bose,rahul.bose786@example.com,Raipur,Chhattisgarh,Central,Inactive,2023-10-16
+787,Myra Pillai,myra.pillai787@example.com,Thiruvananthapuram,Kerala,South,Loyal,2024-04-06
+788,Kiara Iyer,kiara.iyer788@example.com,Faridabad,Haryana,North,High Value,2024-03-08
+789,Priya Verma,priya.verma789@example.com,Kolkata,West Bengal,East,High Value,2024-08-18
+790,Vihaan Rao,vihaan.rao790@example.com,Ahmedabad,Gujarat,West,At Risk,2023-08-31
+791,Aditya Mehta,aditya.mehta791@example.com,Siliguri,West Bengal,East,Inactive,2024-10-09
+792,Meera Das,meera.das792@example.com,Udaipur,Rajasthan,West,Potential,2023-11-10
+793,Anjali Gupta,anjali.gupta793@example.com,New Delhi,Delhi,North,Potential,2023-11-07
+794,Anika Pillai,anika.pillai794@example.com,Amritsar,Punjab,North,Loyal,2023-05-12
+795,Ananya Patel,ananya.patel795@example.com,Dehradun,Uttarakhand,North,Inactive,2023-08-24
+796,Vikram Bose,vikram.bose796@example.com,Udaipur,Rajasthan,West,Potential,2023-01-27
+797,Aarav Sharma,aarav.sharma797@example.com,Patna,Bihar,East,High Value,2023-04-22
+798,Sai Agarwal,sai.agarwal798@example.com,Panaji,Goa,West,Inactive,2023-01-22
+799,Aadhya Gupta,aadhya.gupta799@example.com,Mumbai,Maharashtra,West,At Risk,2023-01-05
+800,Aditya Chatterjee,aditya.chatterjee800@example.com,Thiruvananthapuram,Kerala,South,At Risk,2023-09-30
+801,Anjali Kapoor,anjali.kapoor801@example.com,Coimbatore,Tamil Nadu,South,Potential,2023-11-09
+802,Saanvi Mehta,saanvi.mehta802@example.com,Bhubaneswar,Odisha,East,Potential,2023-10-30
+803,Krishna Joshi,krishna.joshi803@example.com,Surat,Gujarat,West,Inactive,2023-07-18
+804,Sanjay Kapoor,sanjay.kapoor804@example.com,Ahmedabad,Gujarat,West,Potential,2024-05-04
+805,Priya Nair,priya.nair805@example.com,Nagpur,Maharashtra,West,At Risk,2024-03-08
+806,Vikram Kulkarni,vikram.kulkarni806@example.com,Bhubaneswar,Odisha,East,High Value,2024-01-06
+807,Rahul Desai,rahul.desai807@example.com,Faridabad,Haryana,North,At Risk,2024-06-14
+808,Anjali Joshi,anjali.joshi808@example.com,Coimbatore,Tamil Nadu,South,Potential,2023-09-27
+809,Karan Desai,karan.desai809@example.com,Siliguri,West Bengal,East,Potential,2023-12-14
+810,Myra Das,myra.das810@example.com,Udaipur,Rajasthan,West,Loyal,2024-02-26
+811,Anjali Kulkarni,anjali.kulkarni811@example.com,Lucknow,Uttar Pradesh,Central,Inactive,2024-06-12
+812,Sai Bose,sai.bose812@example.com,Ranchi,Jharkhand,East,Potential,2024-06-19
+813,Pooja Joshi,pooja.joshi813@example.com,Patna,Bihar,East,Loyal,2023-09-24
+814,Saanvi Agarwal,saanvi.agarwal814@example.com,Ranchi,Jharkhand,East,Loyal,2023-04-18
+815,Kiara Das,kiara.das815@example.com,Panaji,Goa,West,High Value,2023-01-12
+816,Krishna Pillai,krishna.pillai816@example.com,Bengaluru,Karnataka,South,At Risk,2024-03-01
+817,Arjun Gupta,arjun.gupta817@example.com,Siliguri,West Bengal,East,Potential,2024-09-14
+818,Pooja Patel,pooja.patel818@example.com,Patna,Bihar,East,Loyal,2023-08-20
+819,Arjun Patel,arjun.patel819@example.com,Chennai,Tamil Nadu,South,Inactive,2023-06-21
+820,Krishna Gupta,krishna.gupta820@example.com,Panaji,Goa,West,Potential,2023-04-14
+821,Priya Kapoor,priya.kapoor821@example.com,Kochi,Kerala,South,Potential,2024-10-10
+822,Myra Chatterjee,myra.chatterjee822@example.com,Bhubaneswar,Odisha,East,At Risk,2023-12-19
+823,Ishaan Bose,ishaan.bose823@example.com,Lucknow,Uttar Pradesh,Central,Inactive,2024-07-04
+824,Sanjay Reddy,sanjay.reddy824@example.com,Vijayawada,Andhra Pradesh,South,Potential,2024-06-17
+825,Ishaan Iyer,ishaan.iyer825@example.com,New Delhi,Delhi,North,Potential,2023-08-14
+826,Karan Desai,karan.desai826@example.com,Mysuru,Karnataka,South,Loyal,2023-04-19
+827,Priya Joshi,priya.joshi827@example.com,Pune,Maharashtra,West,Potential,2024-05-20
+828,Vihaan Menon,vihaan.menon828@example.com,Kanpur,Uttar Pradesh,Central,Potential,2024-06-06
+829,Rahul Nair,rahul.nair829@example.com,Visakhapatnam,Andhra Pradesh,South,Potential,2024-07-18
+830,Anika Kulkarni,anika.kulkarni830@example.com,Ludhiana,Punjab,North,Inactive,2024-06-03
+831,Aadhya Iyer,aadhya.iyer831@example.com,Lucknow,Uttar Pradesh,Central,Loyal,2023-04-02
+832,Reyansh Pillai,reyansh.pillai832@example.com,Ranchi,Jharkhand,East,Inactive,2023-01-03
+833,Ayaan Iyer,ayaan.iyer833@example.com,New Delhi,Delhi,North,Loyal,2023-06-08
+834,Ishaan Sharma,ishaan.sharma834@example.com,Bhubaneswar,Odisha,East,At Risk,2024-09-15
+835,Rohan Singh,rohan.singh835@example.com,Patna,Bihar,East,Potential,2023-04-22
+836,Ayaan Iyer,ayaan.iyer836@example.com,Coimbatore,Tamil Nadu,South,At Risk,2024-05-24
+837,Rohan Pillai,rohan.pillai837@example.com,Ahmedabad,Gujarat,West,Potential,2024-09-11
+838,Riya Nair,riya.nair838@example.com,Panaji,Goa,West,Loyal,2023-03-16
+839,Anika Menon,anika.menon839@example.com,Raipur,Chhattisgarh,Central,Potential,2024-02-17
+840,Ayaan Bose,ayaan.bose840@example.com,Faridabad,Haryana,North,Loyal,2023-12-20
+841,Aarav Mehta,aarav.mehta841@example.com,Thiruvananthapuram,Kerala,South,Inactive,2023-05-04
+842,Ayaan Singh,ayaan.singh842@example.com,Faridabad,Haryana,North,Potential,2023-07-10
+843,Krishna Agarwal,krishna.agarwal843@example.com,Nagpur,Maharashtra,West,Loyal,2023-08-05
+844,Ishaan Kapoor,ishaan.kapoor844@example.com,Dehradun,Uttarakhand,North,Loyal,2023-04-21
+845,Reyansh Nair,reyansh.nair845@example.com,Thiruvananthapuram,Kerala,South,High Value,2024-10-01
+846,Rohan Iyer,rohan.iyer846@example.com,Lucknow,Uttar Pradesh,Central,Loyal,2023-10-21
+847,Vihaan Joshi,vihaan.joshi847@example.com,Ludhiana,Punjab,North,Potential,2024-09-10
+848,Vivaan Gupta,vivaan.gupta848@example.com,Bhubaneswar,Odisha,East,Loyal,2024-10-09
+849,Meera Joshi,meera.joshi849@example.com,Panaji,Goa,West,Potential,2023-07-28
+850,Neha Das,neha.das850@example.com,Ludhiana,Punjab,North,Loyal,2023-10-25
+851,Anika Gupta,anika.gupta851@example.com,Bengaluru,Karnataka,South,Loyal,2023-09-17
+852,Rohan Sharma,rohan.sharma852@example.com,Ranchi,Jharkhand,East,Potential,2023-06-16
+853,Pari Das,pari.das853@example.com,Faridabad,Haryana,North,At Risk,2023-10-24
+854,Vivaan Rao,vivaan.rao854@example.com,Kochi,Kerala,South,High Value,2024-06-05
+855,Anika Kapoor,anika.kapoor855@example.com,Visakhapatnam,Andhra Pradesh,South,At Risk,2023-02-12
+856,Rahul Rao,rahul.rao856@example.com,Gurugram,Haryana,North,At Risk,2024-09-09
+857,Neha Joshi,neha.joshi857@example.com,Jaipur,Rajasthan,West,Inactive,2024-06-12
+858,Rahul Rao,rahul.rao858@example.com,Panaji,Goa,West,At Risk,2024-07-15
+859,Kiara Joshi,kiara.joshi859@example.com,Raipur,Chhattisgarh,Central,At Risk,2023-12-27
+860,Priya Pillai,priya.pillai860@example.com,Pune,Maharashtra,West,Inactive,2024-08-21
+861,Karan Kapoor,karan.kapoor861@example.com,Vijayawada,Andhra Pradesh,South,At Risk,2024-10-17
+862,Anika Agarwal,anika.agarwal862@example.com,Raipur,Chhattisgarh,Central,Potential,2023-04-28
+863,Vikram Pillai,vikram.pillai863@example.com,Indore,Madhya Pradesh,Central,At Risk,2024-07-09
+864,Sai Bose,sai.bose864@example.com,Ludhiana,Punjab,North,Inactive,2023-12-24
+865,Karan Kulkarni,karan.kulkarni865@example.com,New Delhi,Delhi,North,Loyal,2024-09-05
+866,Neha Kapoor,neha.kapoor866@example.com,Kochi,Kerala,South,Loyal,2024-06-14
+867,Aadhya Menon,aadhya.menon867@example.com,Surat,Gujarat,West,Potential,2023-07-03
+868,Arjun Das,arjun.das868@example.com,Mysuru,Karnataka,South,Loyal,2023-11-30
+869,Ayaan Rao,ayaan.rao869@example.com,Ludhiana,Punjab,North,High Value,2024-07-07
+870,Krishna Chatterjee,krishna.chatterjee870@example.com,Kolkata,West Bengal,East,At Risk,2024-04-03
+871,Rohan Menon,rohan.menon871@example.com,Noida,Uttar Pradesh,Central,Inactive,2024-07-08
+872,Rahul Pillai,rahul.pillai872@example.com,Coimbatore,Tamil Nadu,South,High Value,2023-03-15
+873,Krishna Agarwal,krishna.agarwal873@example.com,Dehradun,Uttarakhand,North,Inactive,2023-10-20
+874,Meera Kapoor,meera.kapoor874@example.com,Siliguri,West Bengal,East,Inactive,2023-03-31
+875,Rohan Gupta,rohan.gupta875@example.com,Thiruvananthapuram,Kerala,South,Loyal,2023-01-07
+876,Vihaan Mehta,vihaan.mehta876@example.com,New Delhi,Delhi,North,Potential,2024-01-16
+877,Saanvi Patel,saanvi.patel877@example.com,Udaipur,Rajasthan,West,Loyal,2023-01-11
+878,Ishaan Iyer,ishaan.iyer878@example.com,New Delhi,Delhi,North,Loyal,2023-01-15
+879,Navya Agarwal,navya.agarwal879@example.com,Amritsar,Punjab,North,At Risk,2023-06-28
+880,Pooja Joshi,pooja.joshi880@example.com,Ranchi,Jharkhand,East,Loyal,2023-06-05
+881,Diya Verma,diya.verma881@example.com,Bengaluru,Karnataka,South,Potential,2023-07-15
+882,Sanjay Rao,sanjay.rao882@example.com,Panaji,Goa,West,At Risk,2024-03-15
+883,Aarav Singh,aarav.singh883@example.com,Patna,Bihar,East,At Risk,2024-01-17
+884,Riya Chatterjee,riya.chatterjee884@example.com,Bengaluru,Karnataka,South,Inactive,2024-03-05
+885,Pari Menon,pari.menon885@example.com,Bhubaneswar,Odisha,East,Potential,2023-07-19
+886,Rohan Pillai,rohan.pillai886@example.com,Coimbatore,Tamil Nadu,South,High Value,2024-07-10
+887,Myra Mehta,myra.mehta887@example.com,Coimbatore,Tamil Nadu,South,At Risk,2023-02-19
+888,Diya Desai,diya.desai888@example.com,Raipur,Chhattisgarh,Central,Potential,2024-03-22
+889,Krishna Kapoor,krishna.kapoor889@example.com,Gurugram,Haryana,North,Potential,2023-07-14
+890,Ayaan Nair,ayaan.nair890@example.com,Visakhapatnam,Andhra Pradesh,South,At Risk,2023-09-23
+891,Karan Sharma,karan.sharma891@example.com,Vijayawada,Andhra Pradesh,South,Loyal,2023-11-25
+892,Rohan Nair,rohan.nair892@example.com,Dehradun,Uttarakhand,North,Potential,2024-10-26
+893,Arjun Chatterjee,arjun.chatterjee893@example.com,Coimbatore,Tamil Nadu,South,Loyal,2024-04-13
+894,Reyansh Bose,reyansh.bose894@example.com,Coimbatore,Tamil Nadu,South,Loyal,2023-03-25
+895,Saanvi Reddy,saanvi.reddy895@example.com,Raipur,Chhattisgarh,Central,High Value,2024-10-29
+896,Saanvi Kapoor,saanvi.kapoor896@example.com,Dehradun,Uttarakhand,North,At Risk,2024-10-02
+897,Aadhya Nair,aadhya.nair897@example.com,Panaji,Goa,West,Inactive,2023-01-28
+898,Saanvi Iyer,saanvi.iyer898@example.com,Bhopal,Madhya Pradesh,Central,Inactive,2023-12-25
+899,Myra Bose,myra.bose899@example.com,Pune,Maharashtra,West,Potential,2024-10-09
+900,Ishaan Kulkarni,ishaan.kulkarni900@example.com,Patna,Bihar,East,Potential,2023-04-04
+901,Neha Desai,neha.desai901@example.com,Ludhiana,Punjab,North,Inactive,2023-06-14
+902,Rohan Menon,rohan.menon902@example.com,Thiruvananthapuram,Kerala,South,Inactive,2024-09-08
+903,Rahul Sharma,rahul.sharma903@example.com,Patna,Bihar,East,Potential,2023-11-29
+904,Sai Gupta,sai.gupta904@example.com,Ahmedabad,Gujarat,West,Potential,2023-10-10
+905,Priya Rao,priya.rao905@example.com,Patna,Bihar,East,At Risk,2023-12-09
+906,Ananya Verma,ananya.verma906@example.com,Mumbai,Maharashtra,West,Inactive,2023-05-26
+907,Aditya Patel,aditya.patel907@example.com,Siliguri,West Bengal,East,Inactive,2023-03-08
+908,Ayaan Kapoor,ayaan.kapoor908@example.com,Ranchi,Jharkhand,East,Potential,2024-05-07
+909,Ayaan Iyer,ayaan.iyer909@example.com,Bengaluru,Karnataka,South,Potential,2024-03-30
+910,Meera Reddy,meera.reddy910@example.com,Visakhapatnam,Andhra Pradesh,South,High Value,2024-07-27
+911,Sai Gupta,sai.gupta911@example.com,Siliguri,West Bengal,East,Inactive,2023-05-27
+912,Pooja Patel,pooja.patel912@example.com,Dehradun,Uttarakhand,North,Loyal,2023-10-25
+913,Vikram Patel,vikram.patel913@example.com,Raipur,Chhattisgarh,Central,At Risk,2023-02-18
+914,Rohan Patel,rohan.patel914@example.com,Siliguri,West Bengal,East,Inactive,2023-02-10
+915,Vihaan Das,vihaan.das915@example.com,Coimbatore,Tamil Nadu,South,At Risk,2023-07-11
+916,Riya Reddy,riya.reddy916@example.com,Chennai,Tamil Nadu,South,Potential,2023-05-13
+917,Vikram Das,vikram.das917@example.com,Amritsar,Punjab,North,Loyal,2024-01-01
+918,Meera Verma,meera.verma918@example.com,Gurugram,Haryana,North,Loyal,2024-04-01
+919,Riya Joshi,riya.joshi919@example.com,Mysuru,Karnataka,South,Loyal,2023-11-05
+920,Reyansh Verma,reyansh.verma920@example.com,Kolkata,West Bengal,East,Potential,2023-11-01
+921,Anjali Kulkarni,anjali.kulkarni921@example.com,Bengaluru,Karnataka,South,Inactive,2024-11-16
+922,Aarav Nair,aarav.nair922@example.com,Kochi,Kerala,South,Potential,2023-06-19
+923,Karan Gupta,karan.gupta923@example.com,New Delhi,Delhi,North,Potential,2023-04-03
+924,Ananya Rao,ananya.rao924@example.com,Mumbai,Maharashtra,West,Inactive,2023-06-18
+925,Sai Pillai,sai.pillai925@example.com,Patna,Bihar,East,Potential,2023-04-17
+926,Navya Das,navya.das926@example.com,New Delhi,Delhi,North,Loyal,2023-05-01
+927,Vivaan Iyer,vivaan.iyer927@example.com,Raipur,Chhattisgarh,Central,Potential,2024-01-19
+928,Ishaan Desai,ishaan.desai928@example.com,Visakhapatnam,Andhra Pradesh,South,Loyal,2024-09-18
+929,Saanvi Agarwal,saanvi.agarwal929@example.com,New Delhi,Delhi,North,Potential,2024-05-27
+930,Riya Chatterjee,riya.chatterjee930@example.com,Noida,Uttar Pradesh,Central,At Risk,2023-12-03
+931,Myra Pillai,myra.pillai931@example.com,Raipur,Chhattisgarh,Central,Potential,2024-03-24
+932,Vihaan Mehta,vihaan.mehta932@example.com,Ranchi,Jharkhand,East,Potential,2023-08-08
+933,Pooja Rao,pooja.rao933@example.com,Jaipur,Rajasthan,West,Inactive,2023-12-28
+934,Neha Menon,neha.menon934@example.com,Dehradun,Uttarakhand,North,Inactive,2024-01-02
+935,Ayaan Verma,ayaan.verma935@example.com,Chennai,Tamil Nadu,South,Potential,2024-05-17
+936,Kiara Rao,kiara.rao936@example.com,Bhopal,Madhya Pradesh,Central,Potential,2024-04-03
+937,Ishaan Das,ishaan.das937@example.com,Panaji,Goa,West,Loyal,2023-03-25
+938,Anjali Pillai,anjali.pillai938@example.com,Ahmedabad,Gujarat,West,At Risk,2023-04-24
+939,Riya Iyer,riya.iyer939@example.com,Kolkata,West Bengal,East,At Risk,2024-05-31
+940,Sai Rao,sai.rao940@example.com,Kanpur,Uttar Pradesh,Central,Potential,2024-03-28
+941,Rahul Rao,rahul.rao941@example.com,Visakhapatnam,Andhra Pradesh,South,High Value,2023-11-03
+942,Meera Menon,meera.menon942@example.com,Patna,Bihar,East,Loyal,2023-04-28
+943,Karan Menon,karan.menon943@example.com,Chennai,Tamil Nadu,South,Potential,2024-01-14
+944,Arjun Verma,arjun.verma944@example.com,Bhopal,Madhya Pradesh,Central,At Risk,2024-04-15
+945,Anika Bose,anika.bose945@example.com,New Delhi,Delhi,North,At Risk,2023-11-02
+946,Reyansh Joshi,reyansh.joshi946@example.com,New Delhi,Delhi,North,Potential,2023-04-14
+947,Meera Joshi,meera.joshi947@example.com,Udaipur,Rajasthan,West,Loyal,2024-04-06
+948,Ishaan Mehta,ishaan.mehta948@example.com,Bhubaneswar,Odisha,East,Inactive,2023-03-08
+949,Kiara Kapoor,kiara.kapoor949@example.com,Nagpur,Maharashtra,West,Inactive,2023-08-09
+950,Priya Gupta,priya.gupta950@example.com,Surat,Gujarat,West,Potential,2024-06-21
+951,Vikram Gupta,vikram.gupta951@example.com,Vijayawada,Andhra Pradesh,South,Inactive,2023-12-31
+952,Anika Kulkarni,anika.kulkarni952@example.com,Raipur,Chhattisgarh,Central,At Risk,2023-10-11
+953,Vivaan Kapoor,vivaan.kapoor953@example.com,Raipur,Chhattisgarh,Central,Loyal,2024-07-17
+954,Meera Pillai,meera.pillai954@example.com,Surat,Gujarat,West,At Risk,2024-03-14
+955,Ananya Sharma,ananya.sharma955@example.com,Mysuru,Karnataka,South,Potential,2023-03-29
+956,Karan Chatterjee,karan.chatterjee956@example.com,Udaipur,Rajasthan,West,At Risk,2023-10-01
+957,Vivaan Kapoor,vivaan.kapoor957@example.com,Ranchi,Jharkhand,East,Potential,2023-11-29
+958,Priya Rao,priya.rao958@example.com,Bengaluru,Karnataka,South,At Risk,2023-02-24
+959,Pari Menon,pari.menon959@example.com,Chennai,Tamil Nadu,South,Potential,2023-11-28
+960,Vivaan Verma,vivaan.verma960@example.com,Kolkata,West Bengal,East,Inactive,2024-04-20
+961,Myra Kapoor,myra.kapoor961@example.com,Amritsar,Punjab,North,Loyal,2024-08-25
+962,Karan Sharma,karan.sharma962@example.com,Mysuru,Karnataka,South,Loyal,2024-11-23
+963,Pooja Das,pooja.das963@example.com,Bhubaneswar,Odisha,East,Potential,2023-05-21
+964,Krishna Patel,krishna.patel964@example.com,Lucknow,Uttar Pradesh,Central,At Risk,2024-01-24
+965,Anjali Mehta,anjali.mehta965@example.com,Patna,Bihar,East,At Risk,2024-09-21
+966,Vihaan Gupta,vihaan.gupta966@example.com,Panaji,Goa,West,At Risk,2023-12-06
+967,Meera Patel,meera.patel967@example.com,Kanpur,Uttar Pradesh,Central,Loyal,2023-04-27
+968,Aditya Das,aditya.das968@example.com,Bengaluru,Karnataka,South,At Risk,2024-01-22
+969,Krishna Agarwal,krishna.agarwal969@example.com,Panaji,Goa,West,Potential,2023-03-24
+970,Rohan Nair,rohan.nair970@example.com,Lucknow,Uttar Pradesh,Central,Loyal,2023-02-19
+971,Aarav Desai,aarav.desai971@example.com,Dehradun,Uttarakhand,North,At Risk,2024-10-02
+972,Pari Rao,pari.rao972@example.com,Dehradun,Uttarakhand,North,High Value,2024-06-05
+973,Ananya Iyer,ananya.iyer973@example.com,Mumbai,Maharashtra,West,Potential,2023-03-21
+974,Ananya Verma,ananya.verma974@example.com,Kolkata,West Bengal,East,At Risk,2023-05-15
+975,Ishaan Sharma,ishaan.sharma975@example.com,Panaji,Goa,West,Loyal,2024-06-06
+976,Reyansh Desai,reyansh.desai976@example.com,Amritsar,Punjab,North,Inactive,2024-02-27
+977,Pari Desai,pari.desai977@example.com,Dehradun,Uttarakhand,North,Loyal,2024-11-14
+978,Karan Verma,karan.verma978@example.com,Amritsar,Punjab,North,At Risk,2024-01-26
+979,Pooja Chatterjee,pooja.chatterjee979@example.com,Mysuru,Karnataka,South,Potential,2024-04-03
+980,Rahul Menon,rahul.menon980@example.com,Panaji,Goa,West,Potential,2023-12-23
+981,Ishaan Sharma,ishaan.sharma981@example.com,Ahmedabad,Gujarat,West,Inactive,2024-11-14
+982,Ananya Reddy,ananya.reddy982@example.com,Mumbai,Maharashtra,West,Loyal,2023-05-11
+983,Sanjay Sharma,sanjay.sharma983@example.com,Siliguri,West Bengal,East,High Value,2024-01-28
+984,Anika Das,anika.das984@example.com,Raipur,Chhattisgarh,Central,Loyal,2024-05-25
+985,Rahul Desai,rahul.desai985@example.com,Vijayawada,Andhra Pradesh,South,At Risk,2023-12-25
+986,Aarav Pillai,aarav.pillai986@example.com,Coimbatore,Tamil Nadu,South,At Risk,2023-12-21
+987,Rahul Verma,rahul.verma987@example.com,Visakhapatnam,Andhra Pradesh,South,Inactive,2023-05-29
+988,Pooja Iyer,pooja.iyer988@example.com,Gurugram,Haryana,North,Inactive,2024-02-16
+989,Ananya Pillai,ananya.pillai989@example.com,Faridabad,Haryana,North,At Risk,2023-04-01
+990,Anjali Nair,anjali.nair990@example.com,Lucknow,Uttar Pradesh,Central,Inactive,2024-02-10
+991,Ayaan Verma,ayaan.verma991@example.com,Ranchi,Jharkhand,East,Loyal,2023-05-17
+992,Rahul Nair,rahul.nair992@example.com,Siliguri,West Bengal,East,Potential,2023-11-08
+993,Myra Bose,myra.bose993@example.com,Ranchi,Jharkhand,East,At Risk,2023-11-27
+994,Karan Sharma,karan.sharma994@example.com,Nagpur,Maharashtra,West,Potential,2023-05-23
+995,Ananya Sharma,ananya.sharma995@example.com,Kolkata,West Bengal,East,Inactive,2024-03-15
+996,Priya Pillai,priya.pillai996@example.com,Ranchi,Jharkhand,East,Loyal,2024-07-27
+997,Rahul Pillai,rahul.pillai997@example.com,Amritsar,Punjab,North,Inactive,2023-01-15
+998,Rahul Sharma,rahul.sharma998@example.com,Vijayawada,Andhra Pradesh,South,Potential,2024-03-08
+999,Reyansh Gupta,reyansh.gupta999@example.com,Dehradun,Uttarakhand,North,Potential,2023-02-11
+1000,Vikram Patel,vikram.patel1000@example.com,Surat,Gujarat,West,Inactive,2024-03-28
+1001,Aarav Bose,aarav.bose1001@example.com,Dehradun,Uttarakhand,North,Potential,2024-04-20
+1002,Priya Kapoor,priya.kapoor1002@example.com,New Delhi,Delhi,North,High Value,2024-02-12
+1003,Rohan Joshi,rohan.joshi1003@example.com,Dehradun,Uttarakhand,North,Loyal,2023-02-28
+1004,Vikram Menon,vikram.menon1004@example.com,Pune,Maharashtra,West,At Risk,2024-09-06
+1005,Rahul Das,rahul.das1005@example.com,Bhubaneswar,Odisha,East,Loyal,2023-02-17
+1006,Vivaan Nair,vivaan.nair1006@example.com,Patna,Bihar,East,Inactive,2024-04-29
+1007,Ishaan Chatterjee,ishaan.chatterjee1007@example.com,Raipur,Chhattisgarh,Central,Potential,2024-06-03
+1008,Pooja Das,pooja.das1008@example.com,Vijayawada,Andhra Pradesh,South,At Risk,2024-11-27
+1009,Kiara Rao,kiara.rao1009@example.com,Gurugram,Haryana,North,Potential,2023-04-13
+1010,Saanvi Kapoor,saanvi.kapoor1010@example.com,Bengaluru,Karnataka,South,Loyal,2023-02-28
+1011,Sai Desai,sai.desai1011@example.com,Kolkata,West Bengal,East,At Risk,2023-05-17
+1012,Priya Gupta,priya.gupta1012@example.com,Indore,Madhya Pradesh,Central,Potential,2023-07-29
+1013,Sanjay Kapoor,sanjay.kapoor1013@example.com,Bengaluru,Karnataka,South,Inactive,2023-08-01
+1014,Karan Kapoor,karan.kapoor1014@example.com,Dehradun,Uttarakhand,North,Potential,2023-05-21
+1015,Vivaan Singh,vivaan.singh1015@example.com,Surat,Gujarat,West,At Risk,2024-01-18
+1016,Neha Bose,neha.bose1016@example.com,Ludhiana,Punjab,North,Loyal,2024-06-28
+1017,Neha Joshi,neha.joshi1017@example.com,Panaji,Goa,West,High Value,2023-07-11
+1018,Kiara Singh,kiara.singh1018@example.com,Vijayawada,Andhra Pradesh,South,Inactive,2023-09-18
+1019,Riya Verma,riya.verma1019@example.com,Dehradun,Uttarakhand,North,Potential,2024-05-14
+1020,Ayaan Das,ayaan.das1020@example.com,Faridabad,Haryana,North,At Risk,2024-01-10
+1021,Krishna Gupta,krishna.gupta1021@example.com,Ludhiana,Punjab,North,Potential,2024-03-26
+1022,Reyansh Iyer,reyansh.iyer1022@example.com,Kolkata,West Bengal,East,Potential,2023-09-23
+1023,Krishna Sharma,krishna.sharma1023@example.com,Gurugram,Haryana,North,Loyal,2024-11-04
+1024,Rahul Desai,rahul.desai1024@example.com,Bhopal,Madhya Pradesh,Central,Potential,2024-02-08
+1025,Rahul Gupta,rahul.gupta1025@example.com,Ranchi,Jharkhand,East,Loyal,2023-07-27
+1026,Arjun Kulkarni,arjun.kulkarni1026@example.com,Chennai,Tamil Nadu,South,Potential,2024-04-17
+1027,Rohan Singh,rohan.singh1027@example.com,Dehradun,Uttarakhand,North,Potential,2023-12-12
+1028,Vihaan Bose,vihaan.bose1028@example.com,Bhubaneswar,Odisha,East,High Value,2024-02-03
+1029,Ishaan Kapoor,ishaan.kapoor1029@example.com,Ranchi,Jharkhand,East,At Risk,2023-06-14
+1030,Anika Desai,anika.desai1030@example.com,Amritsar,Punjab,North,High Value,2024-07-31
+1031,Reyansh Das,reyansh.das1031@example.com,Kochi,Kerala,South,Potential,2024-04-11
+1032,Ananya Mehta,ananya.mehta1032@example.com,New Delhi,Delhi,North,Loyal,2024-11-30
+1033,Meera Iyer,meera.iyer1033@example.com,Dehradun,Uttarakhand,North,Inactive,2023-01-14
+1034,Kiara Singh,kiara.singh1034@example.com,Faridabad,Haryana,North,At Risk,2024-01-11
+1035,Aadhya Menon,aadhya.menon1035@example.com,Faridabad,Haryana,North,Inactive,2024-09-10
+1036,Ayaan Chatterjee,ayaan.chatterjee1036@example.com,Udaipur,Rajasthan,West,Inactive,2023-07-16
+1037,Neha Kapoor,neha.kapoor1037@example.com,Mumbai,Maharashtra,West,Loyal,2024-11-29
+1038,Anjali Sharma,anjali.sharma1038@example.com,Jaipur,Rajasthan,West,Loyal,2023-07-09
+1039,Reyansh Kulkarni,reyansh.kulkarni1039@example.com,Visakhapatnam,Andhra Pradesh,South,Potential,2023-03-05
+1040,Priya Chatterjee,priya.chatterjee1040@example.com,Dehradun,Uttarakhand,North,Potential,2024-07-05
+1041,Diya Kulkarni,diya.kulkarni1041@example.com,Ludhiana,Punjab,North,Potential,2023-05-12
+1042,Priya Kapoor,priya.kapoor1042@example.com,Mumbai,Maharashtra,West,Potential,2024-08-24
+1043,Reyansh Gupta,reyansh.gupta1043@example.com,Dehradun,Uttarakhand,North,Loyal,2024-03-28
+1044,Neha Desai,neha.desai1044@example.com,Coimbatore,Tamil Nadu,South,Loyal,2023-03-01
+1045,Saanvi Desai,saanvi.desai1045@example.com,Vijayawada,Andhra Pradesh,South,Inactive,2023-01-22
+1046,Rohan Das,rohan.das1046@example.com,Udaipur,Rajasthan,West,Loyal,2024-01-21
+1047,Sanjay Menon,sanjay.menon1047@example.com,Jaipur,Rajasthan,West,At Risk,2023-12-18
+1048,Riya Desai,riya.desai1048@example.com,Gurugram,Haryana,North,Inactive,2023-04-10
+1049,Saanvi Das,saanvi.das1049@example.com,Visakhapatnam,Andhra Pradesh,South,High Value,2024-04-23
+1050,Krishna Nair,krishna.nair1050@example.com,Coimbatore,Tamil Nadu,South,Inactive,2023-06-26
+1051,Kiara Mehta,kiara.mehta1051@example.com,Ahmedabad,Gujarat,West,High Value,2023-06-14
+1052,Ayaan Kulkarni,ayaan.kulkarni1052@example.com,Pune,Maharashtra,West,At Risk,2024-06-22
+1053,Riya Das,riya.das1053@example.com,Ahmedabad,Gujarat,West,At Risk,2024-11-29
+1054,Rahul Joshi,rahul.joshi1054@example.com,Mysuru,Karnataka,South,Loyal,2024-04-07
+1055,Meera Joshi,meera.joshi1055@example.com,Mumbai,Maharashtra,West,Potential,2023-12-17
+1056,Arjun Rao,arjun.rao1056@example.com,Surat,Gujarat,West,Potential,2024-08-17
+1057,Sanjay Menon,sanjay.menon1057@example.com,Amritsar,Punjab,North,High Value,2024-02-18
+1058,Priya Desai,priya.desai1058@example.com,Pune,Maharashtra,West,Inactive,2024-11-17
+1059,Saanvi Agarwal,saanvi.agarwal1059@example.com,Udaipur,Rajasthan,West,Potential,2023-02-20
+1060,Pooja Menon,pooja.menon1060@example.com,Raipur,Chhattisgarh,Central,Loyal,2024-11-10
+1061,Reyansh Kulkarni,reyansh.kulkarni1061@example.com,Gurugram,Haryana,North,Inactive,2023-11-01
+1062,Ishaan Menon,ishaan.menon1062@example.com,Dehradun,Uttarakhand,North,Potential,2024-03-12
+1063,Anjali Singh,anjali.singh1063@example.com,Raipur,Chhattisgarh,Central,At Risk,2024-05-04
+1064,Karan Patel,karan.patel1064@example.com,Vijayawada,Andhra Pradesh,South,Loyal,2023-03-15
+1065,Aditya Mehta,aditya.mehta1065@example.com,Panaji,Goa,West,Potential,2024-05-19
+1066,Krishna Menon,krishna.menon1066@example.com,Coimbatore,Tamil Nadu,South,Loyal,2024-01-20
+1067,Riya Agarwal,riya.agarwal1067@example.com,Thiruvananthapuram,Kerala,South,Loyal,2024-06-11
+1068,Riya Chatterjee,riya.chatterjee1068@example.com,Raipur,Chhattisgarh,Central,Loyal,2023-07-14
+1069,Sai Singh,sai.singh1069@example.com,Visakhapatnam,Andhra Pradesh,South,Loyal,2023-07-11
+1070,Karan Chatterjee,karan.chatterjee1070@example.com,Kochi,Kerala,South,Loyal,2024-11-03
+1071,Rohan Das,rohan.das1071@example.com,Bengaluru,Karnataka,South,Loyal,2023-06-04
+1072,Aarav Rao,aarav.rao1072@example.com,New Delhi,Delhi,North,Potential,2023-01-28
+1073,Sai Nair,sai.nair1073@example.com,Thiruvananthapuram,Kerala,South,Inactive,2024-06-09
+1074,Sanjay Menon,sanjay.menon1074@example.com,Chennai,Tamil Nadu,South,Inactive,2023-03-30
+1075,Saanvi Kulkarni,saanvi.kulkarni1075@example.com,Gurugram,Haryana,North,Inactive,2023-03-19
+1076,Arjun Bose,arjun.bose1076@example.com,Kolkata,West Bengal,East,At Risk,2024-10-03
+1077,Vihaan Rao,vihaan.rao1077@example.com,Bengaluru,Karnataka,South,Potential,2024-03-25
+1078,Pooja Mehta,pooja.mehta1078@example.com,Visakhapatnam,Andhra Pradesh,South,Loyal,2023-04-21
+1079,Vivaan Mehta,vivaan.mehta1079@example.com,Visakhapatnam,Andhra Pradesh,South,Loyal,2024-04-19
+1080,Karan Verma,karan.verma1080@example.com,New Delhi,Delhi,North,Loyal,2024-07-06
+1081,Vivaan Gupta,vivaan.gupta1081@example.com,Kanpur,Uttar Pradesh,Central,At Risk,2024-05-31
+1082,Krishna Menon,krishna.menon1082@example.com,Indore,Madhya Pradesh,Central,Loyal,2023-10-22
+1083,Karan Nair,karan.nair1083@example.com,Panaji,Goa,West,Potential,2023-10-25
+1084,Diya Rao,diya.rao1084@example.com,Jaipur,Rajasthan,West,At Risk,2023-10-08
+1085,Kiara Das,kiara.das1085@example.com,Mysuru,Karnataka,South,At Risk,2024-11-17
+1086,Diya Bose,diya.bose1086@example.com,Coimbatore,Tamil Nadu,South,Loyal,2023-07-27
+1087,Aditya Gupta,aditya.gupta1087@example.com,Gurugram,Haryana,North,Loyal,2023-11-26
+1088,Navya Rao,navya.rao1088@example.com,Visakhapatnam,Andhra Pradesh,South,Inactive,2024-02-01
+1089,Ananya Verma,ananya.verma1089@example.com,Dehradun,Uttarakhand,North,Potential,2023-12-21
+1090,Neha Iyer,neha.iyer1090@example.com,Ludhiana,Punjab,North,Potential,2024-11-07
+1091,Ananya Iyer,ananya.iyer1091@example.com,Faridabad,Haryana,North,Inactive,2023-07-01
+1092,Saanvi Rao,saanvi.rao1092@example.com,Ranchi,Jharkhand,East,Potential,2024-10-03
+1093,Diya Desai,diya.desai1093@example.com,Kochi,Kerala,South,Inactive,2024-06-13
+1094,Vihaan Joshi,vihaan.joshi1094@example.com,Gurugram,Haryana,North,At Risk,2023-05-27
+1095,Pari Verma,pari.verma1095@example.com,Amritsar,Punjab,North,Loyal,2023-06-07
+1096,Navya Agarwal,navya.agarwal1096@example.com,Mysuru,Karnataka,South,Inactive,2023-03-19
+1097,Myra Reddy,myra.reddy1097@example.com,New Delhi,Delhi,North,Potential,2023-12-04
+1098,Navya Das,navya.das1098@example.com,Bhopal,Madhya Pradesh,Central,Potential,2023-10-11
+1099,Myra Menon,myra.menon1099@example.com,Indore,Madhya Pradesh,Central,Potential,2024-10-07
+1100,Pari Mehta,pari.mehta1100@example.com,Kolkata,West Bengal,East,Loyal,2023-03-01
+1101,Karan Iyer,karan.iyer1101@example.com,Faridabad,Haryana,North,At Risk,2023-10-06
+1102,Aadhya Pillai,aadhya.pillai1102@example.com,New Delhi,Delhi,North,High Value,2023-02-22
+1103,Priya Mehta,priya.mehta1103@example.com,Chennai,Tamil Nadu,South,Loyal,2024-01-21
+1104,Meera Singh,meera.singh1104@example.com,Bhopal,Madhya Pradesh,Central,Potential,2024-11-07
+1105,Ananya Patel,ananya.patel1105@example.com,Mumbai,Maharashtra,West,At Risk,2023-04-06
+1106,Aarav Agarwal,aarav.agarwal1106@example.com,Thiruvananthapuram,Kerala,South,Loyal,2024-10-30
+1107,Aadhya Menon,aadhya.menon1107@example.com,Bengaluru,Karnataka,South,Loyal,2024-04-20
+1108,Arjun Nair,arjun.nair1108@example.com,Panaji,Goa,West,Potential,2023-10-30
+1109,Rahul Verma,rahul.verma1109@example.com,Bengaluru,Karnataka,South,At Risk,2023-10-14
+1110,Aadhya Reddy,aadhya.reddy1110@example.com,Bhubaneswar,Odisha,East,Potential,2023-12-29
+1111,Myra Mehta,myra.mehta1111@example.com,Panaji,Goa,West,Inactive,2023-10-27
+1112,Ayaan Das,ayaan.das1112@example.com,New Delhi,Delhi,North,Potential,2024-01-14
+1113,Karan Menon,karan.menon1113@example.com,Bhubaneswar,Odisha,East,Loyal,2024-04-10
+1114,Saanvi Bose,saanvi.bose1114@example.com,Panaji,Goa,West,Potential,2023-05-06
+1115,Sai Joshi,sai.joshi1115@example.com,Vijayawada,Andhra Pradesh,South,Inactive,2023-03-11
+1116,Neha Mehta,neha.mehta1116@example.com,Surat,Gujarat,West,Potential,2024-08-01
+1117,Rahul Reddy,rahul.reddy1117@example.com,Ludhiana,Punjab,North,Loyal,2023-01-11
+1118,Krishna Iyer,krishna.iyer1118@example.com,Vijayawada,Andhra Pradesh,South,Potential,2023-10-04
+1119,Saanvi Patel,saanvi.patel1119@example.com,Kochi,Kerala,South,At Risk,2024-06-07
+1120,Aditya Bose,aditya.bose1120@example.com,Dehradun,Uttarakhand,North,At Risk,2023-08-12
+1121,Myra Menon,myra.menon1121@example.com,New Delhi,Delhi,North,Inactive,2024-04-26
+1122,Krishna Patel,krishna.patel1122@example.com,Faridabad,Haryana,North,Potential,2024-09-12
+1123,Meera Patel,meera.patel1123@example.com,Vijayawada,Andhra Pradesh,South,At Risk,2024-02-24
+1124,Aadhya Gupta,aadhya.gupta1124@example.com,Ludhiana,Punjab,North,At Risk,2023-10-31
+1125,Karan Kapoor,karan.kapoor1125@example.com,Thiruvananthapuram,Kerala,South,Potential,2023-07-24
+1126,Rohan Kulkarni,rohan.kulkarni1126@example.com,Faridabad,Haryana,North,Potential,2023-09-12
+1127,Anika Singh,anika.singh1127@example.com,Dehradun,Uttarakhand,North,At Risk,2023-08-27
+1128,Vihaan Mehta,vihaan.mehta1128@example.com,Nagpur,Maharashtra,West,Loyal,2024-08-12
+1129,Anjali Iyer,anjali.iyer1129@example.com,Raipur,Chhattisgarh,Central,Loyal,2023-11-27
+1130,Rohan Verma,rohan.verma1130@example.com,Coimbatore,Tamil Nadu,South,Potential,2023-06-04
+1131,Pooja Desai,pooja.desai1131@example.com,Patna,Bihar,East,At Risk,2023-12-16
+1132,Arjun Desai,arjun.desai1132@example.com,Visakhapatnam,Andhra Pradesh,South,Inactive,2024-11-23
+1133,Vihaan Menon,vihaan.menon1133@example.com,Udaipur,Rajasthan,West,At Risk,2023-06-01
+1134,Aadhya Agarwal,aadhya.agarwal1134@example.com,New Delhi,Delhi,North,Potential,2024-10-20
+1135,Vihaan Mehta,vihaan.mehta1135@example.com,Mysuru,Karnataka,South,At Risk,2024-02-15
+1136,Diya Desai,diya.desai1136@example.com,Vijayawada,Andhra Pradesh,South,Loyal,2023-07-13
+1137,Sanjay Nair,sanjay.nair1137@example.com,Jaipur,Rajasthan,West,Potential,2024-04-04
+1138,Krishna Kulkarni,krishna.kulkarni1138@example.com,Ahmedabad,Gujarat,West,At Risk,2024-03-16
+1139,Riya Reddy,riya.reddy1139@example.com,Ahmedabad,Gujarat,West,At Risk,2024-06-30
+1140,Navya Singh,navya.singh1140@example.com,Surat,Gujarat,West,Loyal,2024-08-23
+1141,Anika Agarwal,anika.agarwal1141@example.com,New Delhi,Delhi,North,Inactive,2024-01-08
+1142,Rahul Mehta,rahul.mehta1142@example.com,Pune,Maharashtra,West,At Risk,2024-04-05
+1143,Neha Kulkarni,neha.kulkarni1143@example.com,Gurugram,Haryana,North,Loyal,2024-11-17
+1144,Ayaan Kapoor,ayaan.kapoor1144@example.com,Dehradun,Uttarakhand,North,Inactive,2023-06-20
+1145,Karan Reddy,karan.reddy1145@example.com,Thiruvananthapuram,Kerala,South,Loyal,2023-02-14
+1146,Ayaan Sharma,ayaan.sharma1146@example.com,Chennai,Tamil Nadu,South,High Value,2023-09-17
+1147,Anika Chatterjee,anika.chatterjee1147@example.com,Kochi,Kerala,South,At Risk,2024-07-20
+1148,Pooja Rao,pooja.rao1148@example.com,Mysuru,Karnataka,South,Potential,2023-10-16
+1149,Ishaan Agarwal,ishaan.agarwal1149@example.com,Kochi,Kerala,South,Inactive,2023-03-16
+1150,Priya Reddy,priya.reddy1150@example.com,Dehradun,Uttarakhand,North,Potential,2023-06-21
+1151,Navya Nair,navya.nair1151@example.com,Coimbatore,Tamil Nadu,South,Loyal,2024-10-05
+1152,Krishna Desai,krishna.desai1152@example.com,Ludhiana,Punjab,North,Inactive,2023-12-09
+1153,Meera Reddy,meera.reddy1153@example.com,Bhubaneswar,Odisha,East,Loyal,2024-11-02
+1154,Navya Kapoor,navya.kapoor1154@example.com,Coimbatore,Tamil Nadu,South,Loyal,2024-04-09
+1155,Riya Rao,riya.rao1155@example.com,Jaipur,Rajasthan,West,High Value,2024-04-02
+1156,Rahul Rao,rahul.rao1156@example.com,Ranchi,Jharkhand,East,At Risk,2023-05-22
+1157,Reyansh Pillai,reyansh.pillai1157@example.com,Kolkata,West Bengal,East,At Risk,2023-05-18
+1158,Kiara Chatterjee,kiara.chatterjee1158@example.com,Vijayawada,Andhra Pradesh,South,Potential,2024-11-02
+1159,Pari Kulkarni,pari.kulkarni1159@example.com,Raipur,Chhattisgarh,Central,Inactive,2023-11-24
+1160,Priya Rao,priya.rao1160@example.com,Patna,Bihar,East,At Risk,2023-10-28
+1161,Vihaan Sharma,vihaan.sharma1161@example.com,Bhubaneswar,Odisha,East,High Value,2024-08-18
+1162,Ishaan Chatterjee,ishaan.chatterjee1162@example.com,Dehradun,Uttarakhand,North,Potential,2023-06-15
+1163,Sai Das,sai.das1163@example.com,Bhopal,Madhya Pradesh,Central,Inactive,2024-06-18
+1164,Pari Singh,pari.singh1164@example.com,Bengaluru,Karnataka,South,Potential,2023-10-22
+1165,Reyansh Das,reyansh.das1165@example.com,Bhopal,Madhya Pradesh,Central,Inactive,2023-04-22
+1166,Kiara Joshi,kiara.joshi1166@example.com,Lucknow,Uttar Pradesh,Central,Potential,2024-06-23
+1167,Krishna Desai,krishna.desai1167@example.com,Pune,Maharashtra,West,Potential,2024-01-20
+1168,Vivaan Desai,vivaan.desai1168@example.com,Patna,Bihar,East,Loyal,2023-04-23
+1169,Krishna Kapoor,krishna.kapoor1169@example.com,Chennai,Tamil Nadu,South,Inactive,2024-11-17
+1170,Krishna Singh,krishna.singh1170@example.com,Kochi,Kerala,South,Potential,2023-07-26
+1171,Anika Das,anika.das1171@example.com,Bengaluru,Karnataka,South,Potential,2024-03-05
+1172,Arjun Agarwal,arjun.agarwal1172@example.com,Bengaluru,Karnataka,South,Potential,2024-05-17
+1173,Ananya Verma,ananya.verma1173@example.com,Amritsar,Punjab,North,Potential,2024-08-23
+1174,Priya Desai,priya.desai1174@example.com,Vijayawada,Andhra Pradesh,South,Potential,2024-10-18
+1175,Sanjay Gupta,sanjay.gupta1175@example.com,Visakhapatnam,Andhra Pradesh,South,At Risk,2023-11-12
+1176,Aarav Mehta,aarav.mehta1176@example.com,Raipur,Chhattisgarh,Central,Potential,2024-09-22
+1177,Sanjay Bose,sanjay.bose1177@example.com,Udaipur,Rajasthan,West,Potential,2023-07-26
+1178,Navya Nair,navya.nair1178@example.com,Dehradun,Uttarakhand,North,Inactive,2023-11-12
+1179,Krishna Mehta,krishna.mehta1179@example.com,Dehradun,Uttarakhand,North,Potential,2024-08-08
+1180,Ananya Agarwal,ananya.agarwal1180@example.com,Amritsar,Punjab,North,At Risk,2023-02-28
+1181,Navya Agarwal,navya.agarwal1181@example.com,Indore,Madhya Pradesh,Central,At Risk,2023-02-07
+1182,Navya Patel,navya.patel1182@example.com,Patna,Bihar,East,Potential,2023-10-30
+1183,Pari Chatterjee,pari.chatterjee1183@example.com,Ranchi,Jharkhand,East,High Value,2023-11-04
+1184,Meera Reddy,meera.reddy1184@example.com,Dehradun,Uttarakhand,North,Inactive,2023-07-29
+1185,Ananya Kulkarni,ananya.kulkarni1185@example.com,Gurugram,Haryana,North,Potential,2024-11-11
+1186,Vivaan Gupta,vivaan.gupta1186@example.com,Gurugram,Haryana,North,Loyal,2024-08-12
+1187,Neha Agarwal,neha.agarwal1187@example.com,Siliguri,West Bengal,East,Potential,2023-07-01
+1188,Pooja Joshi,pooja.joshi1188@example.com,Ahmedabad,Gujarat,West,Potential,2024-09-18
+1189,Anjali Menon,anjali.menon1189@example.com,Mysuru,Karnataka,South,Loyal,2024-03-31
+1190,Saanvi Gupta,saanvi.gupta1190@example.com,New Delhi,Delhi,North,High Value,2024-01-04
+1191,Ishaan Menon,ishaan.menon1191@example.com,Kochi,Kerala,South,Inactive,2024-10-19
+1192,Saanvi Gupta,saanvi.gupta1192@example.com,Dehradun,Uttarakhand,North,At Risk,2024-05-28
+1193,Pooja Gupta,pooja.gupta1193@example.com,Coimbatore,Tamil Nadu,South,Loyal,2024-03-24
+1194,Vikram Sharma,vikram.sharma1194@example.com,Patna,Bihar,East,Inactive,2024-06-04
+1195,Navya Sharma,navya.sharma1195@example.com,New Delhi,Delhi,North,Loyal,2023-01-12
+1196,Pari Singh,pari.singh1196@example.com,Patna,Bihar,East,At Risk,2024-02-16
+1197,Vivaan Gupta,vivaan.gupta1197@example.com,Pune,Maharashtra,West,Inactive,2023-01-16
+1198,Pooja Desai,pooja.desai1198@example.com,Bhubaneswar,Odisha,East,Potential,2024-03-01
+1199,Vihaan Kulkarni,vihaan.kulkarni1199@example.com,Jaipur,Rajasthan,West,At Risk,2023-03-18
+1200,Ananya Nair,ananya.nair1200@example.com,Visakhapatnam,Andhra Pradesh,South,At Risk,2024-01-16
+1201,Krishna Menon,krishna.menon1201@example.com,Kochi,Kerala,South,Loyal,2023-09-17
+1202,Ananya Agarwal,ananya.agarwal1202@example.com,New Delhi,Delhi,North,High Value,2023-04-19
+1203,Pooja Nair,pooja.nair1203@example.com,New Delhi,Delhi,North,Potential,2023-04-09
+1204,Saanvi Nair,saanvi.nair1204@example.com,Lucknow,Uttar Pradesh,Central,Potential,2023-09-20
+1205,Kiara Patel,kiara.patel1205@example.com,Ludhiana,Punjab,North,Loyal,2023-08-30
+1206,Vihaan Pillai,vihaan.pillai1206@example.com,Gurugram,Haryana,North,Potential,2023-11-06
+1207,Aarav Verma,aarav.verma1207@example.com,New Delhi,Delhi,North,Loyal,2023-06-15
+1208,Ishaan Rao,ishaan.rao1208@example.com,Nagpur,Maharashtra,West,Potential,2024-06-16
+1209,Diya Patel,diya.patel1209@example.com,Patna,Bihar,East,Loyal,2024-05-07
+1210,Anjali Iyer,anjali.iyer1210@example.com,Bhubaneswar,Odisha,East,Loyal,2023-03-18
+1211,Aadhya Sharma,aadhya.sharma1211@example.com,Coimbatore,Tamil Nadu,South,At Risk,2023-12-23
+1212,Aditya Menon,aditya.menon1212@example.com,Gurugram,Haryana,North,Inactive,2024-04-03
+1213,Rahul Joshi,rahul.joshi1213@example.com,Bengaluru,Karnataka,South,At Risk,2024-09-05
+1214,Saanvi Kapoor,saanvi.kapoor1214@example.com,Bhubaneswar,Odisha,East,Potential,2023-05-16
+1215,Anika Kulkarni,anika.kulkarni1215@example.com,Bhubaneswar,Odisha,East,Loyal,2024-09-11
+1216,Pooja Kulkarni,pooja.kulkarni1216@example.com,Chennai,Tamil Nadu,South,Potential,2023-03-31
+1217,Vikram Joshi,vikram.joshi1217@example.com,Visakhapatnam,Andhra Pradesh,South,Inactive,2024-07-31
+1218,Meera Joshi,meera.joshi1218@example.com,Ahmedabad,Gujarat,West,At Risk,2024-10-12
+1219,Karan Gupta,karan.gupta1219@example.com,Faridabad,Haryana,North,Inactive,2023-07-31
+1220,Priya Patel,priya.patel1220@example.com,Indore,Madhya Pradesh,Central,Loyal,2023-05-05
+1221,Myra Chatterjee,myra.chatterjee1221@example.com,Ranchi,Jharkhand,East,Potential,2024-06-01
+1222,Sanjay Agarwal,sanjay.agarwal1222@example.com,Coimbatore,Tamil Nadu,South,At Risk,2024-06-17
+1223,Anjali Gupta,anjali.gupta1223@example.com,Bhubaneswar,Odisha,East,Loyal,2023-07-03
+1224,Neha Desai,neha.desai1224@example.com,Faridabad,Haryana,North,At Risk,2024-01-05
+1225,Navya Joshi,navya.joshi1225@example.com,Ludhiana,Punjab,North,Inactive,2023-07-26
+1226,Krishna Das,krishna.das1226@example.com,Dehradun,Uttarakhand,North,Potential,2023-06-25
+1227,Arjun Singh,arjun.singh1227@example.com,Coimbatore,Tamil Nadu,South,Potential,2024-01-14
+1228,Saanvi Menon,saanvi.menon1228@example.com,Indore,Madhya Pradesh,Central,Potential,2023-03-02
+1229,Sanjay Gupta,sanjay.gupta1229@example.com,Ranchi,Jharkhand,East,High Value,2023-04-12
+1230,Navya Pillai,navya.pillai1230@example.com,Dehradun,Uttarakhand,North,Inactive,2023-11-03
+1231,Krishna Nair,krishna.nair1231@example.com,Thiruvananthapuram,Kerala,South,At Risk,2023-11-09
+1232,Priya Desai,priya.desai1232@example.com,Bengaluru,Karnataka,South,At Risk,2024-04-11
+1233,Rohan Sharma,rohan.sharma1233@example.com,Mumbai,Maharashtra,West,Potential,2024-03-06
+1234,Diya Verma,diya.verma1234@example.com,Ranchi,Jharkhand,East,Loyal,2024-05-03
+1235,Riya Menon,riya.menon1235@example.com,Jaipur,Rajasthan,West,Loyal,2024-10-01
+1236,Priya Agarwal,priya.agarwal1236@example.com,Udaipur,Rajasthan,West,At Risk,2023-07-26
+1237,Riya Singh,riya.singh1237@example.com,Ranchi,Jharkhand,East,Potential,2023-07-21
+1238,Sanjay Patel,sanjay.patel1238@example.com,Ranchi,Jharkhand,East,High Value,2024-07-11
+1239,Vikram Singh,vikram.singh1239@example.com,Noida,Uttar Pradesh,Central,Potential,2024-07-02
+1240,Kiara Das,kiara.das1240@example.com,Mumbai,Maharashtra,West,Loyal,2024-07-30
+1241,Riya Iyer,riya.iyer1241@example.com,Kolkata,West Bengal,East,At Risk,2023-06-28
+1242,Reyansh Nair,reyansh.nair1242@example.com,Mumbai,Maharashtra,West,Inactive,2024-07-19
+1243,Sai Verma,sai.verma1243@example.com,Udaipur,Rajasthan,West,Loyal,2024-06-29
+1244,Sai Iyer,sai.iyer1244@example.com,New Delhi,Delhi,North,Potential,2024-10-13
+1245,Diya Sharma,diya.sharma1245@example.com,Bhubaneswar,Odisha,East,Inactive,2023-11-21
+1246,Krishna Gupta,krishna.gupta1246@example.com,Kochi,Kerala,South,Potential,2023-09-19
+1247,Rohan Chatterjee,rohan.chatterjee1247@example.com,Faridabad,Haryana,North,Loyal,2023-09-26
+1248,Pari Kapoor,pari.kapoor1248@example.com,New Delhi,Delhi,North,At Risk,2023-09-06
+1249,Reyansh Kulkarni,reyansh.kulkarni1249@example.com,Dehradun,Uttarakhand,North,Inactive,2023-07-07
+1250,Karan Desai,karan.desai1250@example.com,Jaipur,Rajasthan,West,Loyal,2023-07-29
+1251,Vikram Sharma,vikram.sharma1251@example.com,Ludhiana,Punjab,North,Loyal,2023-09-05
+1252,Aarav Sharma,aarav.sharma1252@example.com,Visakhapatnam,Andhra Pradesh,South,At Risk,2024-10-07
+1253,Krishna Bose,krishna.bose1253@example.com,Ranchi,Jharkhand,East,Inactive,2024-03-28
+1254,Aarav Rao,aarav.rao1254@example.com,Ranchi,Jharkhand,East,Potential,2024-07-21
+1255,Karan Kapoor,karan.kapoor1255@example.com,Kochi,Kerala,South,Loyal,2024-08-03
+1256,Vikram Verma,vikram.verma1256@example.com,New Delhi,Delhi,North,Loyal,2023-04-01
+1257,Krishna Das,krishna.das1257@example.com,Nagpur,Maharashtra,West,At Risk,2023-11-30
+1258,Ananya Mehta,ananya.mehta1258@example.com,Ahmedabad,Gujarat,West,Potential,2023-11-08
+1259,Anika Kulkarni,anika.kulkarni1259@example.com,New Delhi,Delhi,North,At Risk,2023-05-03
+1260,Myra Sharma,myra.sharma1260@example.com,Raipur,Chhattisgarh,Central,Loyal,2024-03-28
+1261,Vivaan Chatterjee,vivaan.chatterjee1261@example.com,New Delhi,Delhi,North,At Risk,2023-03-19
+1262,Neha Gupta,neha.gupta1262@example.com,Dehradun,Uttarakhand,North,High Value,2024-07-20
+1263,Rohan Verma,rohan.verma1263@example.com,Ahmedabad,Gujarat,West,Potential,2023-09-18
+1264,Vikram Agarwal,vikram.agarwal1264@example.com,Faridabad,Haryana,North,Loyal,2024-04-23
+1265,Reyansh Kapoor,reyansh.kapoor1265@example.com,Dehradun,Uttarakhand,North,Potential,2024-02-06
+1266,Diya Singh,diya.singh1266@example.com,Lucknow,Uttar Pradesh,Central,High Value,2024-10-15
+1267,Priya Kulkarni,priya.kulkarni1267@example.com,Raipur,Chhattisgarh,Central,Inactive,2024-07-27
+1268,Neha Agarwal,neha.agarwal1268@example.com,Mysuru,Karnataka,South,Potential,2024-04-09
+1269,Ishaan Singh,ishaan.singh1269@example.com,Dehradun,Uttarakhand,North,Inactive,2023-06-25
+1270,Pari Iyer,pari.iyer1270@example.com,Indore,Madhya Pradesh,Central,High Value,2024-08-17
+1271,Vihaan Gupta,vihaan.gupta1271@example.com,Siliguri,West Bengal,East,At Risk,2024-09-04
+1272,Pooja Pillai,pooja.pillai1272@example.com,Bengaluru,Karnataka,South,Potential,2023-04-22
+1273,Pari Desai,pari.desai1273@example.com,Faridabad,Haryana,North,Potential,2023-08-17
+1274,Anjali Menon,anjali.menon1274@example.com,New Delhi,Delhi,North,Loyal,2023-05-15
+1275,Krishna Nair,krishna.nair1275@example.com,Faridabad,Haryana,North,Potential,2023-05-31
+1276,Krishna Agarwal,krishna.agarwal1276@example.com,Ahmedabad,Gujarat,West,Inactive,2023-08-03
+1277,Vikram Desai,vikram.desai1277@example.com,New Delhi,Delhi,North,Inactive,2023-08-29
+1278,Myra Rao,myra.rao1278@example.com,Panaji,Goa,West,Potential,2024-08-10
+1279,Kiara Singh,kiara.singh1279@example.com,Ahmedabad,Gujarat,West,At Risk,2024-06-04
+1280,Pari Rao,pari.rao1280@example.com,Bhopal,Madhya Pradesh,Central,Potential,2024-02-24
+1281,Krishna Desai,krishna.desai1281@example.com,Patna,Bihar,East,Inactive,2024-03-11
+1282,Anjali Verma,anjali.verma1282@example.com,Pune,Maharashtra,West,Loyal,2023-08-20
+1283,Riya Kulkarni,riya.kulkarni1283@example.com,Ludhiana,Punjab,North,Inactive,2023-07-31
+1284,Ayaan Agarwal,ayaan.agarwal1284@example.com,Coimbatore,Tamil Nadu,South,Loyal,2023-07-01
+1285,Sai Pillai,sai.pillai1285@example.com,Ludhiana,Punjab,North,Inactive,2023-06-22
+1286,Arjun Joshi,arjun.joshi1286@example.com,Panaji,Goa,West,Loyal,2024-09-07
+1287,Aarav Gupta,aarav.gupta1287@example.com,Dehradun,Uttarakhand,North,Potential,2024-08-26
+1288,Anika Mehta,anika.mehta1288@example.com,Bengaluru,Karnataka,South,Inactive,2023-06-11
+1289,Pari Singh,pari.singh1289@example.com,Panaji,Goa,West,At Risk,2024-02-21
+1290,Karan Nair,karan.nair1290@example.com,Surat,Gujarat,West,Inactive,2024-02-03
+1291,Saanvi Rao,saanvi.rao1291@example.com,Kochi,Kerala,South,At Risk,2024-03-04
+1292,Meera Joshi,meera.joshi1292@example.com,Ranchi,Jharkhand,East,High Value,2023-06-19
+1293,Sai Joshi,sai.joshi1293@example.com,Raipur,Chhattisgarh,Central,Potential,2023-12-18
+1294,Krishna Kulkarni,krishna.kulkarni1294@example.com,Bhubaneswar,Odisha,East,High Value,2023-11-13
+1295,Aditya Verma,aditya.verma1295@example.com,Ranchi,Jharkhand,East,Potential,2023-11-30
+1296,Karan Menon,karan.menon1296@example.com,Kochi,Kerala,South,High Value,2024-05-12
+1297,Pooja Nair,pooja.nair1297@example.com,Vijayawada,Andhra Pradesh,South,At Risk,2023-04-16
+1298,Navya Chatterjee,navya.chatterjee1298@example.com,Surat,Gujarat,West,High Value,2023-11-07
+1299,Meera Sharma,meera.sharma1299@example.com,Thiruvananthapuram,Kerala,South,At Risk,2024-09-06
+1300,Priya Chatterjee,priya.chatterjee1300@example.com,Udaipur,Rajasthan,West,High Value,2023-08-01
+1301,Arjun Verma,arjun.verma1301@example.com,Kochi,Kerala,South,Potential,2024-08-23
+1302,Ayaan Menon,ayaan.menon1302@example.com,Pune,Maharashtra,West,At Risk,2023-02-03
+1303,Navya Pillai,navya.pillai1303@example.com,Kolkata,West Bengal,East,At Risk,2023-02-06
+1304,Priya Joshi,priya.joshi1304@example.com,Bhubaneswar,Odisha,East,Loyal,2024-07-30
+1305,Sai Patel,sai.patel1305@example.com,Bengaluru,Karnataka,South,Inactive,2023-11-08
+1306,Vikram Nair,vikram.nair1306@example.com,Kolkata,West Bengal,East,Loyal,2024-05-09
+1307,Priya Desai,priya.desai1307@example.com,Panaji,Goa,West,Loyal,2024-06-03
+1308,Myra Sharma,myra.sharma1308@example.com,Ludhiana,Punjab,North,Loyal,2023-05-27
+1309,Ayaan Singh,ayaan.singh1309@example.com,Panaji,Goa,West,Inactive,2024-04-05
+1310,Navya Mehta,navya.mehta1310@example.com,Panaji,Goa,West,Inactive,2023-09-11
+1311,Anika Reddy,anika.reddy1311@example.com,Siliguri,West Bengal,East,Inactive,2024-11-22
+1312,Diya Kapoor,diya.kapoor1312@example.com,Jaipur,Rajasthan,West,Inactive,2023-09-19
+1313,Rahul Sharma,rahul.sharma1313@example.com,Faridabad,Haryana,North,Potential,2024-06-14
+1314,Vihaan Kulkarni,vihaan.kulkarni1314@example.com,New Delhi,Delhi,North,At Risk,2023-06-26
+1315,Pari Reddy,pari.reddy1315@example.com,Gurugram,Haryana,North,Inactive,2024-06-08
+1316,Rohan Kulkarni,rohan.kulkarni1316@example.com,Bengaluru,Karnataka,South,Inactive,2024-02-19
+1317,Aditya Das,aditya.das1317@example.com,Mumbai,Maharashtra,West,High Value,2024-06-15
+1318,Aadhya Bose,aadhya.bose1318@example.com,Kolkata,West Bengal,East,Inactive,2024-06-27
+1319,Priya Gupta,priya.gupta1319@example.com,Siliguri,West Bengal,East,Potential,2024-11-19
+1320,Myra Bose,myra.bose1320@example.com,Jaipur,Rajasthan,West,Loyal,2023-06-07
+1321,Neha Pillai,neha.pillai1321@example.com,Dehradun,Uttarakhand,North,Loyal,2023-08-20
+1322,Anjali Bose,anjali.bose1322@example.com,New Delhi,Delhi,North,Inactive,2024-06-26
+1323,Saanvi Agarwal,saanvi.agarwal1323@example.com,Ranchi,Jharkhand,East,Potential,2023-08-06
+1324,Pooja Pillai,pooja.pillai1324@example.com,Coimbatore,Tamil Nadu,South,At Risk,2024-09-18
+1325,Vikram Mehta,vikram.mehta1325@example.com,Amritsar,Punjab,North,At Risk,2023-02-15
+1326,Karan Kulkarni,karan.kulkarni1326@example.com,Visakhapatnam,Andhra Pradesh,South,At Risk,2024-07-05
+1327,Rohan Sharma,rohan.sharma1327@example.com,Raipur,Chhattisgarh,Central,High Value,2023-05-09
+1328,Anjali Nair,anjali.nair1328@example.com,Raipur,Chhattisgarh,Central,Inactive,2023-01-26
+1329,Sai Verma,sai.verma1329@example.com,Coimbatore,Tamil Nadu,South,At Risk,2023-08-16
+1330,Kiara Sharma,kiara.sharma1330@example.com,Faridabad,Haryana,North,Loyal,2023-02-07
+1331,Meera Gupta,meera.gupta1331@example.com,New Delhi,Delhi,North,At Risk,2024-10-14
+1332,Sanjay Chatterjee,sanjay.chatterjee1332@example.com,Kochi,Kerala,South,Potential,2024-03-26
+1333,Rahul Bose,rahul.bose1333@example.com,Surat,Gujarat,West,Inactive,2023-06-19
+1334,Reyansh Mehta,reyansh.mehta1334@example.com,Bhubaneswar,Odisha,East,High Value,2024-05-10
+1335,Karan Singh,karan.singh1335@example.com,Bhubaneswar,Odisha,East,Loyal,2024-11-27
+1336,Myra Nair,myra.nair1336@example.com,Indore,Madhya Pradesh,Central,Inactive,2023-03-05
+1337,Rahul Das,rahul.das1337@example.com,Udaipur,Rajasthan,West,Inactive,2023-11-21
+1338,Sai Patel,sai.patel1338@example.com,Nagpur,Maharashtra,West,Loyal,2024-09-20
+1339,Navya Agarwal,navya.agarwal1339@example.com,Ranchi,Jharkhand,East,Potential,2023-12-30
+1340,Saanvi Mehta,saanvi.mehta1340@example.com,Thiruvananthapuram,Kerala,South,At Risk,2024-06-16
+1341,Myra Kulkarni,myra.kulkarni1341@example.com,Patna,Bihar,East,At Risk,2024-05-08
+1342,Rahul Kapoor,rahul.kapoor1342@example.com,Ahmedabad,Gujarat,West,At Risk,2024-06-29
+1343,Karan Chatterjee,karan.chatterjee1343@example.com,Pune,Maharashtra,West,Potential,2024-07-09
+1344,Ishaan Rao,ishaan.rao1344@example.com,Chennai,Tamil Nadu,South,Potential,2023-12-20
+1345,Karan Menon,karan.menon1345@example.com,Jaipur,Rajasthan,West,Loyal,2023-09-14
+1346,Ananya Kapoor,ananya.kapoor1346@example.com,Amritsar,Punjab,North,Loyal,2023-12-29
+1347,Rahul Gupta,rahul.gupta1347@example.com,Panaji,Goa,West,Loyal,2023-08-23
+1348,Meera Kulkarni,meera.kulkarni1348@example.com,Patna,Bihar,East,Loyal,2024-09-12
+1349,Sai Agarwal,sai.agarwal1349@example.com,Kochi,Kerala,South,Potential,2023-08-21
+1350,Vihaan Kulkarni,vihaan.kulkarni1350@example.com,Thiruvananthapuram,Kerala,South,Potential,2024-05-07
+1351,Vikram Pillai,vikram.pillai1351@example.com,Dehradun,Uttarakhand,North,Loyal,2024-04-21
+1352,Vikram Iyer,vikram.iyer1352@example.com,Panaji,Goa,West,High Value,2023-10-26
+1353,Anika Rao,anika.rao1353@example.com,Nagpur,Maharashtra,West,Potential,2024-01-24
+1354,Krishna Chatterjee,krishna.chatterjee1354@example.com,Coimbatore,Tamil Nadu,South,High Value,2024-04-30
+1355,Ishaan Menon,ishaan.menon1355@example.com,Udaipur,Rajasthan,West,Inactive,2024-05-15
+1356,Sai Joshi,sai.joshi1356@example.com,New Delhi,Delhi,North,At Risk,2023-07-22
+1357,Vihaan Menon,vihaan.menon1357@example.com,Ludhiana,Punjab,North,Loyal,2024-01-18
+1358,Karan Nair,karan.nair1358@example.com,Gurugram,Haryana,North,Loyal,2023-08-07
+1359,Ananya Menon,ananya.menon1359@example.com,Amritsar,Punjab,North,Inactive,2023-09-24
+1360,Arjun Das,arjun.das1360@example.com,Bengaluru,Karnataka,South,Inactive,2023-03-01
+1361,Pari Bose,pari.bose1361@example.com,Noida,Uttar Pradesh,Central,Potential,2024-01-06
+1362,Vihaan Rao,vihaan.rao1362@example.com,Mumbai,Maharashtra,West,Inactive,2024-01-06
+1363,Rahul Desai,rahul.desai1363@example.com,New Delhi,Delhi,North,High Value,2023-04-07
+1364,Aadhya Joshi,aadhya.joshi1364@example.com,Panaji,Goa,West,Inactive,2024-03-20
+1365,Krishna Desai,krishna.desai1365@example.com,Patna,Bihar,East,Loyal,2024-11-03
+1366,Navya Iyer,navya.iyer1366@example.com,Faridabad,Haryana,North,Loyal,2024-01-26
+1367,Priya Nair,priya.nair1367@example.com,Udaipur,Rajasthan,West,Inactive,2023-07-25
+1368,Rahul Gupta,rahul.gupta1368@example.com,Kochi,Kerala,South,At Risk,2023-08-06
+1369,Rahul Chatterjee,rahul.chatterjee1369@example.com,Faridabad,Haryana,North,Inactive,2024-09-06
+1370,Anjali Kulkarni,anjali.kulkarni1370@example.com,New Delhi,Delhi,North,Loyal,2023-08-05
+1371,Aarav Nair,aarav.nair1371@example.com,Bengaluru,Karnataka,South,Potential,2024-02-02
+1372,Reyansh Mehta,reyansh.mehta1372@example.com,Bhubaneswar,Odisha,East,Inactive,2024-03-15
+1373,Rahul Menon,rahul.menon1373@example.com,Gurugram,Haryana,North,High Value,2023-07-04
+1374,Priya Mehta,priya.mehta1374@example.com,Faridabad,Haryana,North,Potential,2024-09-27
+1375,Aadhya Kapoor,aadhya.kapoor1375@example.com,Coimbatore,Tamil Nadu,South,High Value,2023-10-29
+1376,Pari Rao,pari.rao1376@example.com,Ranchi,Jharkhand,East,High Value,2024-04-12
+1377,Anjali Menon,anjali.menon1377@example.com,Visakhapatnam,Andhra Pradesh,South,Loyal,2023-04-21
+1378,Ayaan Patel,ayaan.patel1378@example.com,Ahmedabad,Gujarat,West,At Risk,2023-07-20
+1379,Priya Singh,priya.singh1379@example.com,Patna,Bihar,East,Potential,2023-02-02
+1380,Anjali Mehta,anjali.mehta1380@example.com,Bhubaneswar,Odisha,East,Inactive,2023-06-04
+1381,Aarav Mehta,aarav.mehta1381@example.com,Ahmedabad,Gujarat,West,Loyal,2024-09-26
+1382,Navya Gupta,navya.gupta1382@example.com,Patna,Bihar,East,Inactive,2024-03-13
+1383,Vivaan Kapoor,vivaan.kapoor1383@example.com,Thiruvananthapuram,Kerala,South,Potential,2024-10-27
+1384,Rohan Das,rohan.das1384@example.com,Kochi,Kerala,South,At Risk,2023-11-23
+1385,Neha Joshi,neha.joshi1385@example.com,Ranchi,Jharkhand,East,Potential,2024-10-17
+1386,Myra Menon,myra.menon1386@example.com,Panaji,Goa,West,Inactive,2023-02-20
+1387,Arjun Patel,arjun.patel1387@example.com,Siliguri,West Bengal,East,High Value,2023-12-16
+1388,Sanjay Verma,sanjay.verma1388@example.com,Ranchi,Jharkhand,East,At Risk,2024-08-23
+1389,Karan Reddy,karan.reddy1389@example.com,Panaji,Goa,West,High Value,2024-03-14
+1390,Aadhya Bose,aadhya.bose1390@example.com,Gurugram,Haryana,North,Loyal,2023-12-26
+1391,Anjali Desai,anjali.desai1391@example.com,Noida,Uttar Pradesh,Central,Inactive,2023-04-04
+1392,Priya Reddy,priya.reddy1392@example.com,Nagpur,Maharashtra,West,Inactive,2024-05-23
+1393,Sai Sharma,sai.sharma1393@example.com,Indore,Madhya Pradesh,Central,Potential,2023-11-16
+1394,Diya Kulkarni,diya.kulkarni1394@example.com,Ludhiana,Punjab,North,Inactive,2023-11-19
+1395,Reyansh Rao,reyansh.rao1395@example.com,Vijayawada,Andhra Pradesh,South,Potential,2023-11-14
+1396,Priya Pillai,priya.pillai1396@example.com,Dehradun,Uttarakhand,North,Inactive,2024-01-06
+1397,Ishaan Iyer,ishaan.iyer1397@example.com,Visakhapatnam,Andhra Pradesh,South,Loyal,2023-11-01
+1398,Pari Pillai,pari.pillai1398@example.com,Kochi,Kerala,South,Inactive,2023-06-07
+1399,Riya Joshi,riya.joshi1399@example.com,Ludhiana,Punjab,North,Loyal,2023-06-15
+1400,Riya Iyer,riya.iyer1400@example.com,Kanpur,Uttar Pradesh,Central,Potential,2023-04-19

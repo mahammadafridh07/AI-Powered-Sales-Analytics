@@ -1,0 +1,12 @@
+-- Actual seeding of realistic data (customers, products, orders, order_items)
+-- is done via the Python seed script, NOT static SQL inserts, because the
+-- sample dataset (data/sample_sales.csv) is generated programmatically with
+-- trend, seasonality, and anomalies -- see data/generate_sample_data.py.
+--
+-- To seed the database, run from the backend/ directory:
+--
+--     python -m app.seed
+--
+-- This creates all tables (if they don't exist), loads data/sample_sales.csv
+-- through the same validation/cleaning pipeline used for user uploads, and
+-- creates a demo login account (demo@salesai.com / Demo@1234).
